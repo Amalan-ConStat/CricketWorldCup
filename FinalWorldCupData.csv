@@ -1,0 +1,455 @@
+"","Location","WhosWho","Date","WinningConditions","Team1","Overs1","Runs1","Wickets1","Team2","Overs2","Runs2","Wickets2","Matches","MatchType","Winner","D/LMethod"
+"1","Lord's","England-v-India","Jun-7-1975","England won by 202 runs","England","60/60","334","4","India","60/60","132","3","1st-match",NA,"England ",NA
+"2","Birmingham","East-Africa-v-New-Zealand","Jun-7-1975","New Zealand won by 181 runs","New Zealand","60/60","309","5","East Africa","60/60","128","8","2nd-match",NA,"New Zealand ",NA
+"3","Leeds","Australia-v-Pakistan","Jun-7-1975","Australia won by 73 runs","Australia","60/60","278","7","Pakistan","53/60","205","10","3rd-match",NA,"Australia ",NA
+"4","Manchester","Sri-Lanka-v-West-Indies","Jun-7-1975","West Indies won by 9 wickets (with 236 balls remaining)","Sri Lanka","37.2/60","86","10","West Indies","20.4/60","87","1","4th-match",NA,"West Indies ",NA
+"5","Nottingham","England-v-New-Zealand","Jun-11-1975","England won by 80 runs","England","60/60","266","6","New Zealand","60/60","186","10","5th-match",NA,"England ",NA
+"6","Leeds","East-Africa-v-India","Jun-11-1975","India won by 10 wickets (with 181 balls remaining)","East Africa","55.3/60","120","10","India","29.5/60","123","0","6th-match",NA,"India ",NA
+"7","The-Oval","Australia-v-Sri-Lanka","Jun-11-1975","Australia won by 52 runs","Australia","60/60","328","5","Sri Lanka","60/60","276","4","7th-match",NA,"Australia ",NA
+"8","Birmingham","Pakistan-v-West-Indies","Jun-11-1975","West Indies won by 1 wicket (with 2 balls remaining)","Pakistan","60/60","266","7","West Indies","59.4/60","267","9","8th-match",NA,"West Indies ",NA
+"9","Birmingham","England-v-East-Africa","Jun-14-1975","England won by 196 runs","England","60/60","290","5","East Africa","52.3/60","94","10","9th-match",NA,"England ",NA
+"10","Manchester","India-v-New-Zealand","Jun-14-1975","New Zealand won by 4 wickets (with 7 balls remaining)","India","60/60","230","10","New Zealand","58.5/60","233","6","10th-match",NA,"New Zealand ",NA
+"11","The-Oval","Australia-v-West-Indies","Jun-14-1975","West Indies won by 7 wickets (with 84 balls remaining)","Australia","53.4/60","192","10","West Indies","46/60","195","3","11th-match",NA,"West Indies ",NA
+"12","Nottingham","Pakistan-v-Sri-Lanka","Jun-14-1975","Pakistan won by 192 runs","Pakistan","60/60","330","6","Sri Lanka","50.1/60","138","10","12th-match",NA,"Pakistan ",NA
+"13","Leeds","England-v-Australia","Jun-18-1975","Australia won by 4 wickets (with 188 balls remaining)","England","36.2/60","93","10","Australia","28.4/60","94","6","1st-sf",NA,"Australia ",NA
+"14","The-Oval","New-Zealand-v-West-Indies","Jun-18-1975","West Indies won by 5 wickets (with 119 balls remaining)","New Zealand","52.2/60","158","10","West Indies","40.1/60","159","5","2nd-sf",NA,"West Indies ",NA
+"15","Lord's","Australia-v-West-Indies","Jun-21-1975","West Indies won by 17 runs","West Indies","60/60","291","8","Australia","58.4/60","274","10","final",NA,"West Indies ",NA
+"16","Birmingham","India-v-West-Indies","Jun-9-1979","West Indies won by 9 wickets (with 51 balls remaining)","India","53.1/60","190","10","West Indies","51.3/60","194","1","1st-match",NA,"West Indies ",NA
+"17","Nottingham","New-Zealand-v-Sri-Lanka","Jun-9-1979","New Zealand won by 9 wickets (with 74 balls remaining)","Sri Lanka","56.5/60","189","10","New Zealand","47.4/60","190","1","2nd-match",NA,"New Zealand ",NA
+"18","Lord's","England-v-Australia","Jun-9-1979","England won by 6 wickets (with 77 balls remaining)","Australia","60/60","159","9","England","47.1/60","160","4","3rd-match",NA,"England ",NA
+"19","Leeds","Canada-v-Pakistan","Jun-9-1979","Pakistan won by 8 wickets (with 119 balls remaining)","Canada","60/60","139","9","Pakistan","40.1/60","140","2","4th-match",NA,"Pakistan ",NA
+"20","The-Oval","Sri-Lanka-v-West-Indies","Jun-13-15-1979","Match abandoned without a ball bowled",NA,NA,NA,NA,NA,NA,NA,NA,"5th-match",NA,"Match abandoned without a ball bowled",NA
+"21","Leeds","India-v-New-Zealand","Jun-13-1979","New Zealand won by 8 wickets (with 18 balls remaining)","India","55.5/60","182","10","New Zealand","57/60","183","2","6th-match",NA,"New Zealand ",NA
+"22","Nottingham","Australia-v-Pakistan","Jun-13-14-1979","Pakistan won by 89 runs","Pakistan","60/60","286","7","Australia","57.1/60","197","10","7th-match",NA,"Pakistan ",NA
+"23","Manchester","England-v-Canada","Jun-13-14-1979","England won by 8 wickets (with 277 balls remaining)","Canada","40.3/60","45","10","England","13.5/60","46","2","8th-match",NA,"England ",NA
+"24","Manchester","India-v-Sri-Lanka","Jun-16-18-1979","Sri Lanka won by 47 runs","Sri Lanka","60/60","238","5","India","54.1/60","191","10","9th-match",NA,"Sri Lanka ",NA
+"25","Nottingham","New-Zealand-v-West-Indies","Jun-16-1979","West Indies won by 32 runs","West Indies","60/60","244","7","New Zealand","60/60","212","9","10th-match",NA,"West Indies ",NA
+"26","Birmingham","Australia-v-Canada","Jun-16-1979","Australia won by 7 wickets (with 204 balls remaining)","Canada","33.2/60","105","10","Australia","26/60","106","3","11th-match",NA,"Australia ",NA
+"27","Leeds","England-v-Pakistan","Jun-16-1979","England won by 14 runs","England","60/60","165","9","Pakistan","56/60","151","10","12th-match",NA,"England ",NA
+"28","Manchester","England-v-New-Zealand","Jun-20-1979","England won by 9 runs","England","60/60","221","8","New Zealand","60/60","212","9","1st-sf",NA,"England ",NA
+"29","The-Oval","Pakistan-v-West-Indies","Jun-20-1979","West Indies won by 43 runs","West Indies","60/60","293","6","Pakistan","56.2/60","250","10","2nd-sf",NA,"West Indies ",NA
+"30","Lord's","England-v-West-Indies","Jun-23-1979","West Indies won by 92 runs","West Indies","60/60","286","9","England","51/60","194","10","final",NA,"West Indies ",NA
+"31","The-Oval","England-v-New-Zealand","Jun-9-1983","England won by 106 runs","England","60/60","322","6","New Zealand","59/60","216","10","1st-match",NA,"England ",NA
+"32","Swansea","Pakistan-v-Sri-Lanka","Jun-9-1983","Pakistan won by 50 runs","Pakistan","60/60","338","5","Sri Lanka","60/60","288","9","2nd-match",NA,"Pakistan ",NA
+"33","Nottingham","Australia-v-Zimbabwe","Jun-9-1983","Zimbabwe won by 13 runs","Zimbabwe","60/60","239","6","Australia","60/60","226","7","3rd-match",NA,"Zimbabwe ",NA
+"34","Manchester","India-v-West-Indies","Jun-9-10-1983","India won by 34 runs","India","60/60","262","8","West Indies","54.1/60","228","10","4th-match",NA,"India ",NA
+"35","Taunton","England-v-Sri-Lanka","Jun-11-1983","England won by 47 runs","England","60/60","333","9","Sri Lanka","58/60","286","10","5th-match",NA,"England ",NA
+"36","Birmingham","New-Zealand-v-Pakistan","Jun-11-12-1983","New Zealand won by 52 runs","New Zealand","60/60","238","9","Pakistan","55.2/60","186","10","6th-match",NA,"New Zealand ",NA
+"37","Leeds","Australia-v-West-Indies","Jun-11-12-1983","West Indies won by 101 runs","West Indies","60/60","252","9","Australia","30.3/60","151","10","7th-match",NA,"West Indies ",NA
+"38","Leicester","India-v-Zimbabwe","Jun-11-1983","India won by 5 wickets (with 135 balls remaining)","Zimbabwe","51.4/60","155","10","India","37.3/60","157","5","8th-match",NA,"India ",NA
+"39","Lord's","England-v-Pakistan","Jun-13-1983","England won by 8 wickets (with 56 balls remaining)","Pakistan","60/60","193","8","England","50.4/60","199","2","9th-match",NA,"England ",NA
+"40","Bristol","New-Zealand-v-Sri-Lanka","Jun-13-1983","New Zealand won by 5 wickets (with 124 balls remaining)","Sri Lanka","56.1/60","206","10","New Zealand","39.2/60","209","5","10th-match",NA,"New Zealand ",NA
+"41","Nottingham","Australia-v-India","Jun-13-1983","Australia won by 162 runs","Australia","60/60","320","9","India","37.5/60","158","10","11th-match",NA,"Australia ",NA
+"42","Worcester","West-Indies-v-Zimbabwe","Jun-13-1983","West Indies won by 8 wickets (with 69 balls remaining)","Zimbabwe","60/60","217","7","West Indies","48.3/60","218","2","12th-match",NA,"West Indies ",NA
+"43","Birmingham","England-v-New-Zealand","Jun-15-1983","New Zealand won by 2 wickets (with 1 ball remaining)","England","55.2/60","234","10","New Zealand","59.5/60","238","8","13th-match",NA,"New Zealand ",NA
+"44","The-Oval","India-v-West-Indies","Jun-15-1983","West Indies won by 66 runs","West Indies","60/60","282","9","India","53.1/60","216","10","14th-match",NA,"West Indies ",NA
+"45","Leeds","Pakistan-v-Sri-Lanka","Jun-16-1983","Pakistan won by 11 runs","Pakistan","60/60","235","7","Sri Lanka","58.3/60","224","10","15th-match",NA,"Pakistan ",NA
+"46","Southampton","Australia-v-Zimbabwe","Jun-16-1983","Australia won by 32 runs","Australia","60/60","272","7","Zimbabwe","59.5/60","240","10","16th-match",NA,"Australia ",NA
+"47","Manchester","England-v-Pakistan","Jun-18-1983","England won by 7 wickets (with 16 balls remaining)","Pakistan","60/60","232","8","England","57.2/60","233","3","17th-match",NA,"England ",NA
+"48","Derby","New-Zealand-v-Sri-Lanka","Jun-18-1983","Sri Lanka won by 3 wickets (with 43 balls remaining)","New Zealand","58.2/60","181","10","Sri Lanka","52.5/60","184","7","18th-match",NA,"Sri Lanka ",NA
+"49","Lord's","Australia-v-West-Indies","Jun-18-1983","West Indies won by 7 wickets (with 13 balls remaining)","Australia","60/60","273","6","West Indies","57.5/60","276","3","19th-match",NA,"West Indies ",NA
+"50","Tunbridge-Wells","India-v-Zimbabwe","Jun-18-1983","India won by 31 runs","India","60/60","266","8","Zimbabwe","57/60","235","10","20th-match",NA,"India ",NA
+"51","Leeds","England-v-Sri-Lanka","Jun-20-1983","England won by 9 wickets (with 215 balls remaining)","Sri Lanka","50.4/60","136","10","England","24.1/60","137","1","21st-match",NA,"England ",NA
+"52","Nottingham","New-Zealand-v-Pakistan","Jun-20-1983","Pakistan won by 11 runs","Pakistan","60/60","261","3","New Zealand","59.1/60","250","10","22nd-match",NA,"Pakistan ",NA
+"53","Chelmsford","Australia-v-India","Jun-20-1983","India won by 118 runs","India","55.5/60","247","10","Australia","38.2/60","129","10","23rd-match",NA,"India ",NA
+"54","Birmingham","West-Indies-v-Zimbabwe","Jun-20-1983","West Indies won by 10 wickets (with 89 balls remaining)","Zimbabwe","60/60","171","10","West Indies","45.1/60","172","0","24th-match",NA,"West Indies ",NA
+"55","Manchester","England-v-India","Jun-22-1983","India won by 6 wickets (with 32 balls remaining)","England","60/60","213","10","India","54.4/60","217","4","1st-sf",NA,"India ",NA
+"56","The-Oval","Pakistan-v-West-Indies","Jun-22-1983","West Indies won by 8 wickets (with 68 balls remaining)","Pakistan","60/60","184","8","West Indies","48.4/60","188","2","2nd-sf",NA,"West Indies ",NA
+"57","Lord's","India-v-West-Indies","Jun-25-1983","India won by 43 runs","India","54.4/60","183","10","West Indies","52/60","140","10","final",NA,"India ",NA
+"58","Hyderabad-(Sind)","Pakistan-v-Sri-Lanka","Oct-8-1987","Pakistan won by 15 runs","Pakistan","50/50","267","6","Sri Lanka","49.2/50","252","10","1st-match",NA,"Pakistan ",NA
+"59","Chennai","India-v-Australia","Oct-9-1987","Australia won by 1 run","Australia","50/50","270","6","India","49.5/50","269","10","3rd-match",NA,"Australia ",NA
+"60","Gujranwala","England-v-West-Indies","Oct-9-1987","England won by 2 wickets (with 3 balls remaining)","West Indies","50/50","243","7","England","49.3/50","246","8","2nd-match",NA,"England ",NA
+"61","Hyderabad-(Deccan)","New-Zealand-v-Zimbabwe","Oct-10-1987","New Zealand won by 3 runs","New Zealand","50/50","242","7","Zimbabwe","49.4/50","239","10","4th-match",NA,"New Zealand ",NA
+"62","Rawalpindi","Pakistan-v-England","Oct-12-13-1987","Pakistan won by 18 runs","Pakistan","50/50","239","7","England","48.4/50","221","10","5th-match",NA,"Pakistan ",NA
+"63","Chennai","Australia-v-Zimbabwe","Oct-13-1987","Australia won by 96 runs","Australia","50/50","235","9","Zimbabwe","42.4/50","139","10","6th-match",NA,"Australia ",NA
+"64","Karachi","Sri-Lanka-v-West-Indies","Oct-13-1987","West Indies won by 191 runs","West Indies","50/50","360","4","Sri Lanka","50/50","169","4","7th-match",NA,"West Indies ",NA
+"65","Bengaluru","India-v-New-Zealand","Oct-14-1987","India won by 16 runs","India","50/50","252","7","New Zealand","50/50","236","8","8th-match",NA,"India ",NA
+"66","Lahore","Pakistan-v-West-Indies","Oct-16-1987","Pakistan won by 1 wicket (with 0 balls remaining)","West Indies","49.3/50","216","10","Pakistan","50/50","217","9","9th-match",NA,"Pakistan ",NA
+"67","Mumbai","India-v-Zimbabwe","Oct-17-1987","India won by 8 wickets (with 133 balls remaining)","Zimbabwe","44.2/50","135","10","India","27.5/50","136","2","11th-match",NA,"India ",NA
+"68","Peshawar","England-v-Sri-Lanka","Oct-17-1987","England won by 108 runs (revised target)","England","50/50","296","4","Sri Lanka","45/45,-target:-267","158","8","10th-match",NA,"England ",NA
+"69","Indore","Australia-v-New-Zealand","Oct-18-19-1987","Australia won by 3 runs","Australia","30/30","199","4","New Zealand","30/30","196","9","12th-match",NA,"Australia ",NA
+"70","Karachi","Pakistan-v-England","Oct-20-1987","Pakistan won by 7 wickets (with 6 balls remaining)","England","50/50","244","9","Pakistan","49/50","247","3","13th-match",NA,"Pakistan ",NA
+"71","Kanpur","Sri-Lanka-v-West-Indies","Oct-21-1987","West Indies won by 25 runs","West Indies","50/50","236","8","Sri Lanka","50/50","211","8","14th-match",NA,"West Indies ",NA
+"72","Delhi","India-v-Australia","Oct-22-1987","India won by 56 runs","India","50/50","289","6","Australia","49/50","233","10","15th-match",NA,"India ",NA
+"73","Kolkata","New-Zealand-v-Zimbabwe","Oct-23-1987","New Zealand won by 4 wickets (with 14 balls remaining)","Zimbabwe","50/50","227","5","New Zealand","47.4/50","228","6","16th-match",NA,"New Zealand ",NA
+"74","Faisalabad","Pakistan-v-Sri-Lanka","Oct-25-1987","Pakistan won by 113 runs","Pakistan","50/50","297","7","Sri Lanka","50/50","184","8","17th-match",NA,"Pakistan ",NA
+"75","Jaipur","England-v-West-Indies","Oct-26-1987","England won by 34 runs","England","50/50","269","5","West Indies","48.1/50","235","10","18th-match",NA,"England ",NA
+"76","Ahmedabad","India-v-Zimbabwe","Oct-26-1987","India won by 7 wickets (with 48 balls remaining)","Zimbabwe","50/50","191","7","India","42/50","194","3","19th-match",NA,"India ",NA
+"77","Chandigarh","Australia-v-New-Zealand","Oct-27-1987","Australia won by 17 runs","Australia","50/50","251","8","New Zealand","48.4/50","234","10","20th-match",NA,"Australia ",NA
+"78","Cuttack","Australia-v-Zimbabwe","Oct-30-1987","Australia won by 70 runs","Australia","50/50","266","5","Zimbabwe","50/50","196","6","21st-match",NA,"Australia ",NA
+"79","Pune","England-v-Sri-Lanka","Oct-30-1987","England won by 8 wickets (with 52 balls remaining)","Sri Lanka","50/50","218","7","England","41.2/50","219","2","22nd-match",NA,"England ",NA
+"80","Karachi","Pakistan-v-West-Indies","Oct-30-1987","West Indies won by 28 runs","West Indies","50/50","258","7","Pakistan","50/50","230","9","23rd-match",NA,"West Indies ",NA
+"81","Nagpur","India-v-New-Zealand","Oct-31-1987","India won by 9 wickets (with 107 balls remaining)","New Zealand","50/50","221","9","India","32.1/50","224","1","24th-match",NA,"India ",NA
+"82","Lahore","Pakistan-v-Australia","Nov-4-1987","Australia won by 18 runs","Australia","50/50","267","8","Pakistan","49/50","249","10","1st-sf",NA,"Australia ",NA
+"83","Mumbai","India-v-England","Nov-5-1987","England won by 35 runs","England","50/50","254","6","India","45.3/50","219","10","2nd-sf",NA,"England ",NA
+"84","Kolkata","Australia-v-England","Nov-8-1987","Australia won by 7 runs","Australia","50/50","253","5","England","50/50","246","8","final",NA,"Australia ",NA
+"85","Auckland","New-Zealand-v-Australia","Feb-22-1992","New Zealand won by 37 runs","New Zealand","50/50","248","6","Australia","48.1/50","211","10","1st-match",NA,"New Zealand ",NA
+"86","Perth","England-v-India","Feb-22-1992","England won by 9 runs","England","50/50","236","9","India","49.2/50","227","10","2nd-match",NA,"England ",NA
+"87","New-Plymouth","Sri-Lanka-v-Zimbabwe","Feb-23-1992","Sri Lanka won by 3 wickets (with 4 balls remaining)","Zimbabwe","50/50","312","4","Sri Lanka","49.2/50","313","7","3rd-match",NA,"Sri Lanka ",NA
+"88","Melbourne","Pakistan-v-West-Indies","Feb-23-1992","West Indies won by 10 wickets (with 19 balls remaining)","Pakistan","50/50","220","2","West Indies","46.5/50","221","0","4th-match",NA,"West Indies ",NA
+"89","Hamilton","New-Zealand-v-Sri-Lanka","Feb-25-1992","New Zealand won by 6 wickets (with 10 balls remaining)","Sri Lanka","50/50","206","9","New Zealand","48.2/50","210","4","5th-match",NA,"New Zealand ",NA
+"90","Sydney","Australia-v-South-Africa","Feb-26-1992","South Africa won by 9 wickets (with 13 balls remaining)","Australia","49/49","170","9","South Africa","46.5/49","171","1","6th-match",NA,"South Africa ",NA
+"91","Hobart","Pakistan-v-Zimbabwe","Feb-27-1992","Pakistan won by 53 runs","Pakistan","50/50","254","4","Zimbabwe","50/50","201","7","7th-match",NA,"Pakistan ",NA
+"92","Melbourne","England-v-West-Indies","Feb-27-1992","England won by 6 wickets (with 61 balls remaining)","West Indies","49.2/50","157","10","England","39.5/50","160","4","8th-match",NA,"England ",NA
+"93","Mackay","India-v-Sri-Lanka","Feb-28-1992","No result","India","0.2/20",NA,NA,NA,NA,NA,NA,"9th-match",NA,"No result",NA
+"94","Auckland","New-Zealand-v-South-Africa","Feb-29-1992","New Zealand won by 7 wickets (with 93 balls remaining)","South Africa","50/50","190","7","New Zealand","34.3/50","191","3","10th-match",NA,"New Zealand ",NA
+"95","Brisbane","West-Indies-v-Zimbabwe","Feb-29-1992","West Indies won by 75 runs","West Indies","50/50","264","8","Zimbabwe","50/50","189","7","11th-match",NA,"West Indies ",NA
+"96","Brisbane","Australia-v-India","Mar-1-1992","Australia won by 1 run (revised target)","Australia","50/50","237","9","India","47/47,-target:-236","234","10","12th-match",NA,"Australia ",NA
+"97","Adelaide","England-v-Pakistan","Mar-1-1992","No result","Pakistan","40.2/50","74","10","England","8/16,-target:-64","24","1","13th-match",NA,"No result",NA
+"98","Wellington","South-Africa-v-Sri-Lanka","Mar-2-1992","Sri Lanka won by 3 wickets (with 1 ball remaining)","South Africa","50/50","195","10","Sri Lanka","49.5/50","198","7","14th-match",NA,"Sri Lanka ",NA
+"99","Napier","New-Zealand-v-Zimbabwe","Mar-3-1992","New Zealand won by 48 runs (revised target)","New Zealand","20.5/20.5","162","3","Zimbabwe","18/18,-target:-154","105","7","15th-match",NA,"New Zealand ",NA
+"100","Sydney","India-v-Pakistan","Mar-4-1992","India won by 43 runs","India","49/49","216","7","Pakistan","48.1/49","173","10","16th-match",NA,"India ",NA
+"101","Christchurch","South-Africa-v-West-Indies","Mar-5-1992","South Africa won by 64 runs","South Africa","50/50","200","8","West Indies","38.4/50","136","10","17th-match",NA,"South Africa ",NA
+"102","Sydney","Australia-v-England","Mar-5-1992","England won by 8 wickets (with 55 balls remaining)","Australia","49/50","171","10","England","40.5/50","173","2","18th-match",NA,"England ",NA
+"103","Hamilton","India-v-Zimbabwe","Mar-7-1992","India won by 55 runs (revised target)","India","32/32","203","7","Zimbabwe","19.1/19,-target:-159","104","1","19th-match",NA,"India ",NA
+"104","Adelaide","Australia-v-Sri-Lanka","Mar-7-1992","Australia won by 7 wickets (with 36 balls remaining)","Sri Lanka","50/50","189","9","Australia","44/50","190","3","20th-match",NA,"Australia ",NA
+"105","Auckland","New-Zealand-v-West-Indies","Mar-8-1992","New Zealand won by 5 wickets (with 9 balls remaining)","West Indies","50/50","203","7","New Zealand","48.3/50","206","5","21st-match",NA,"New Zealand ",NA
+"106","Brisbane","Pakistan-v-South-Africa","Mar-8-1992","South Africa won by 20 runs (revised target)","South Africa","50/50","211","7","Pakistan","36/36,-target:-194","173","8","22nd-match",NA,"South Africa ",NA
+"107","Ballarat","England-v-Sri-Lanka","Mar-9-1992","England won by 106 runs","England","50/50","280","6","Sri Lanka","44/50","174","10","23rd-match",NA,"England ",NA
+"108","Wellington","India-v-West-Indies","Mar-10-1992","West Indies won by 5 wickets (with 34 balls remaining) (revised target)","India","49.4/50","197","10","West Indies","40.2/46,-target:-195","195","5","24th-match",NA,"West Indies ",NA
+"109","Canberra","South-Africa-v-Zimbabwe","Mar-10-1992","South Africa won by 7 wickets (with 29 balls remaining)","Zimbabwe","48.3/50","163","10","South Africa","45.1/50","164","3","25th-match",NA,"South Africa ",NA
+"110","Perth","Australia-v-Pakistan","Mar-11-1992","Pakistan won by 48 runs","Pakistan","50/50","220","9","Australia","45.2/50","172","10","26th-match",NA,"Pakistan ",NA
+"111","Dunedin","New-Zealand-v-India","Mar-12-1992","New Zealand won by 4 wickets (with 17 balls remaining)","India","50/50","230","6","New Zealand","47.1/50","231","6","27th-match",NA,"New Zealand ",NA
+"112","Melbourne","England-v-South-Africa","Mar-12-1992","England won by 3 wickets (with 1 ball remaining) (revised target)","South Africa","50/50","236","4","England","40.5/41,-target:-226","226","7","28th-match",NA,"England ",NA
+"113","Berri","Sri-Lanka-v-West-Indies","Mar-13-1992","West Indies won by 91 runs","West Indies","50/50","268","8","Sri Lanka","50/50","177","9","29th-match",NA,"West Indies ",NA
+"114","Hobart","Australia-v-Zimbabwe","Mar-14-1992","Australia won by 128 runs","Australia","46/46","265","6","Zimbabwe","41.4/46","137","10","30th-match",NA,"Australia ",NA
+"115","Wellington","New-Zealand-v-England","Mar-15-1992","New Zealand won by 7 wickets (with 55 balls remaining)","England","50/50","200","8","New Zealand","40.5/50","201","3","31st-match",NA,"New Zealand ",NA
+"116","Adelaide","India-v-South-Africa","Mar-15-1992","South Africa won by 6 wickets (with 5 balls remaining)","India","30/30","180","6","South Africa","29.1/30","181","4","32nd-match",NA,"South Africa ",NA
+"117","Perth","Pakistan-v-Sri-Lanka","Mar-15-1992","Pakistan won by 4 wickets (with 5 balls remaining)","Sri Lanka","50/50","212","6","Pakistan","49.1/50","216","6","33rd-match",NA,"Pakistan ",NA
+"118","Christchurch","New-Zealand-v-Pakistan","Mar-18-1992","Pakistan won by 7 wickets (with 32 balls remaining)","New Zealand","48.2/50","166","10","Pakistan","44.4/50","167","3","34th-match",NA,"Pakistan ",NA
+"119","Albury","England-v-Zimbabwe","Mar-18-1992","Zimbabwe won by 9 runs","Zimbabwe","46.1/50","134","10","England","49.1/50","125","10","35th-match",NA,"Zimbabwe ",NA
+"120","Melbourne","Australia-v-West-Indies","Mar-18-1992","Australia won by 57 runs","Australia","50/50","216","6","West Indies","42.4/50","159","10","36th-match",NA,"Australia ",NA
+"121","Auckland","New-Zealand-v-Pakistan","Mar-21-1992","Pakistan won by 4 wickets (with 6 balls remaining)","New Zealand","50/50","262","7","Pakistan","49/50","264","6","1st-sf",NA,"Pakistan ",NA
+"122","Sydney","England-v-South-Africa","Mar-22-1992","England won by 19 runs (revised target)","England","45/45","252","6","South Africa","43/43,-target:-252","232","6","2nd-sf",NA,"England ",NA
+"123","Melbourne","England-v-Pakistan","Mar-25-1992","Pakistan won by 22 runs","Pakistan","50/50","249","6","England","49.2/50","227","10","final",NA,"Pakistan ",NA
+"124","Ahmedabad","England-v-New-Zealand","Feb-14-1996","New Zealand won by 11 runs","New Zealand","50/50","239","6","England","50/50","228","9","1st-match",NA,"New Zealand ",NA
+"125","Rawalpindi","South-Africa-v-United-Arab-Emirates","Feb-16-1996","South Africa won by 169 runs","South Africa","50/50","321","2","United Arab Emirates","50/50","152","8","2nd-match",NA,"South Africa ",NA
+"126","Hyderabad-(Deccan)","West-Indies-v-Zimbabwe","Feb-16-1996","West Indies won by 6 wickets (with 123 balls remaining)","Zimbabwe","50/50","151","9","West Indies","29.3/50","155","4","3rd-match",NA,"West Indies ",NA
+"127","Vadodara","Netherlands-v-New-Zealand","Feb-17-1996","New Zealand won by 119 runs","New Zealand","50/50","307","8","Netherlands","50/50","188","7","4th-match",NA,"New Zealand ",NA
+"128","Colombo-(RPS)","Sri-Lanka-v-Australia","Feb-17-1996","Sri Lanka won (walkover without a ball bowled)",NA,NA,NA,"10",NA,NA,NA,"10","5th-match",NA,"Sri Lanka ",NA
+"129","Cuttack","India-v-Kenya","Feb-18-1996","India won by 7 wickets (with 49 balls remaining)","Kenya","50/50","199","6","India","41.5/50","203","3","6th-match",NA,"India ",NA
+"130","Peshawar","England-v-United-Arab-Emirates","Feb-18-1996","England won by 8 wickets (with 90 balls remaining)","United Arab Emirates","48.3/50","136","10","England","35/50","140","2","7th-match",NA,"England ",NA
+"131","Faisalabad","New-Zealand-v-South-Africa","Feb-20-1996","South Africa won by 5 wickets (with 75 balls remaining)","New Zealand","50/50","177","9","South Africa","37.3/50","178","5","8th-match",NA,"South Africa ",NA
+"132","Colombo-(SSC)","Sri-Lanka-v-Zimbabwe","Feb-21-1996","Sri Lanka won by 6 wickets (with 78 balls remaining)","Zimbabwe","50/50","228","6","Sri Lanka","37/50","229","4","9th-match",NA,"Sri Lanka ",NA
+"133","Gwalior","India-v-West-Indies","Feb-21-1996","India won by 5 wickets (with 62 balls remaining)","West Indies","50/50","173","10","India","39.4/50","174","5","10th-match",NA,"India ",NA
+"134","Peshawar","England-v-Netherlands","Feb-22-1996","England won by 49 runs","England","50/50","279","4","Netherlands","50/50","230","6","11th-match",NA,"England ",NA
+"135","Visakhapatnam","Australia-v-Kenya","Feb-23-1996","Australia won by 97 runs","Australia","50/50","304","7","Kenya","50/50","207","7","12th-match",NA,"Australia ",NA
+"136","Gujranwala","Pakistan-v-United-Arab-Emirates","Feb-24-1996","Pakistan won by 9 wickets (with 90 balls remaining)","United Arab Emirates","33/33","109","9","Pakistan","18/33","112","1","13th-match",NA,"Pakistan ",NA
+"137","Colombo-(RPS)","Sri-Lanka-v-West-Indies","Feb-25-1996","Sri Lanka won (walkover without a ball bowled)",NA,NA,NA,"10",NA,NA,NA,"10","15th-match",NA,"Sri Lanka ",NA
+"138","Rawalpindi","England-v-South-Africa","Feb-25-1996","South Africa won by 78 runs","South Africa","50/50","230","10","England","44.3/50","152","10","14th-match",NA,"South Africa ",NA
+"139","Patna","Kenya-v-Zimbabwe","Feb-26-1996","No result","Zimbabwe","15.5/50","45","3",NA,NA,NA,NA,"16th-match",NA,"No result",NA
+"140","Lahore","Pakistan-v-Netherlands","Feb-26-1996","Pakistan won by 8 wickets (with 116 balls remaining)","Netherlands","50/50","145","7","Pakistan","30.4/50","151","2","17th-match",NA,"Pakistan ",NA
+"141","Patna","Kenya-v-Zimbabwe","Feb-27-1996","Zimbabwe won by 5 wickets (with 46 balls remaining)","Kenya","49.4/50","134","10","Zimbabwe","42.2/50","137","5","16th-match",NA,"Zimbabwe ",NA
+"142","Faisalabad","New-Zealand-v-United-Arab-Emirates","Feb-27-1996","New Zealand won by 109 runs","New Zealand","47/47","276","8","United Arab Emirates","47/47","167","9","18th-match",NA,"New Zealand ",NA
+"143","Mumbai","India-v-Australia","Feb-27-1996","Australia won by 16 runs","Australia","50/50","258","10","India","48/50","242","10","19th-match",NA,"Australia ",NA
+"144","Pune","Kenya-v-West-Indies","Feb-29-1996","Kenya won by 73 runs","Kenya","49.3/50","166","10","West Indies","35.2/50","93","10","20th-match",NA,"Kenya ",NA
+"145","Karachi","Pakistan-v-South-Africa","Feb-29-1996","South Africa won by 5 wickets (with 34 balls remaining)","Pakistan","50/50","242","6","South Africa","44.2/50","243","5","21st-match",NA,"South Africa ",NA
+"146","Nagpur","Australia-v-Zimbabwe","Mar-1-1996","Australia won by 8 wickets (with 84 balls remaining)","Zimbabwe","45.3/50","154","10","Australia","36/50","158","2","22nd-match",NA,"Australia ",NA
+"147","Lahore","Netherlands-v-United-Arab-Emirates","Mar-1-1996","United Arab Emirates won by 7 wickets (with 34 balls remaining)","Netherlands","50/50","216","9","United Arab Emirates","44.2/50","220","3","23rd-match",NA,"United Arab Emirates ",NA
+"148","Delhi","India-v-Sri-Lanka","Mar-2-1996","Sri Lanka won by 6 wickets (with 8 balls remaining)","India","50/50","271","3","Sri Lanka","48.4/50","272","4","24th-match",NA,"Sri Lanka ",NA
+"149","Karachi","Pakistan-v-England","Mar-3-1996","Pakistan won by 7 wickets (with 14 balls remaining)","England","50/50","249","9","Pakistan","47.4/50","250","3","25th-match",NA,"Pakistan ",NA
+"150","Jaipur","Australia-v-West-Indies","Mar-4-1996","West Indies won by 4 wickets (with 7 balls remaining)","Australia","50/50","229","6","West Indies","48.5/50","232","6","26th-match",NA,"West Indies ",NA
+"151","Rawalpindi","Netherlands-v-South-Africa","Mar-5-1996","South Africa won by 160 runs","South Africa","50/50","328","3","Netherlands","50/50","168","8","27th-match",NA,"South Africa ",NA
+"152","Kanpur","India-v-Zimbabwe","Mar-6-1996","India won by 40 runs","India","50/50","247","5","Zimbabwe","49.4/50","207","10","29th-match",NA,"India ",NA
+"153","Kandy","Sri-Lanka-v-Kenya","Mar-6-1996","Sri Lanka won by 144 runs","Sri Lanka","50/50","398","5","Kenya","50/50","254","7","28th-match",NA,"Sri Lanka ",NA
+"154","Lahore","Pakistan-v-New-Zealand","Mar-6-1996","Pakistan won by 46 runs","Pakistan","50/50","281","5","New Zealand","47.3/50","235","10","30th-match",NA,"Pakistan ",NA
+"155","Faisalabad","England-v-Sri-Lanka","Mar-9-1996","Sri Lanka won by 5 wickets (with 56 balls remaining)","England","50/50","235","8","Sri Lanka","40.4/50","236","5","1st-qf",NA,"Sri Lanka ",NA
+"156","Bengaluru","India-v-Pakistan","Mar-9-1996","India won by 39 runs","India","50/50","287","8","Pakistan","49/49","248","9","2nd-qf",NA,"India ",NA
+"157","Karachi","South-Africa-v-West-Indies","Mar-11-1996","West Indies won by 19 runs","West Indies","50/50","264","8","South Africa","49.3/50","245","10","3rd-qf",NA,"West Indies ",NA
+"158","Chennai","Australia-v-New-Zealand","Mar-11-1996","Australia won by 6 wickets (with 13 balls remaining)","New Zealand","50/50","286","9","Australia","47.5/50","289","4","4th-qf",NA,"Australia ",NA
+"159","Kolkata","India-v-Sri-Lanka","Mar-13-1996","Sri Lanka won by default","Sri Lanka","50/50","251","8","India","34.1/50","120","8","1st-sf",NA,"Sri Lanka ",NA
+"160","Mohali","Australia-v-West-Indies","Mar-14-1996","Australia won by 5 runs","Australia","50/50","207","8","West Indies","49.3/50","202","10","2nd-sf",NA,"Australia ",NA
+"161","Lahore","Australia-v-Sri-Lanka","Mar-17-1996","Sri Lanka won by 7 wickets (with 22 balls remaining)","Australia","50/50","241","7","Sri Lanka","46.2/50","245","3","final",NA,"Sri Lanka ",NA
+"162","Lord's","England-v-Sri-Lanka","May-14-1999","England won by 8 wickets (with 19 balls remaining)","Sri Lanka","48.4/50","204","10","England","46.5/50","207","2","1st-match",NA,"England ",NA
+"163","Hove","India-v-South-Africa","May-15-1999","South Africa won by 4 wickets (with 16 balls remaining)","India","50/50","253","5","South Africa","47.2/50","254","6","2nd-match",NA,"South Africa ",NA
+"164","Taunton","Kenya-v-Zimbabwe","May-15-1999","Zimbabwe won by 5 wickets (with 54 balls remaining)","Kenya","50/50","229","7","Zimbabwe","41/50","231","5","3rd-match",NA,"Zimbabwe ",NA
+"165","Worcester","Australia-v-Scotland","May-16-1999","Australia won by 6 wickets (with 31 balls remaining)","Scotland","50/50","181","7","Australia","44.5/50","182","4","4th-match",NA,"Australia ",NA
+"166","Bristol","Pakistan-v-West-Indies","May-16-1999","Pakistan won by 27 runs","Pakistan","50/50","229","8","West Indies","48.5/50","202","10","5th-match",NA,"Pakistan ",NA
+"167","Chelmsford","Bangladesh-v-New-Zealand","May-17-1999","New Zealand won by 6 wickets (with 102 balls remaining)","Bangladesh","37.4/50","116","10","New Zealand","33/50","117","4","6th-match",NA,"New Zealand ",NA
+"168","Canterbury","England-v-Kenya","May-18-1999","England won by 9 wickets (with 66 balls remaining)","Kenya","49.4/50","203","10","England","39/50","204","1","7th-match",NA,"England ",NA
+"169","Leicester","India-v-Zimbabwe","May-19-1999","Zimbabwe won by 3 runs","Zimbabwe","50/50","252","9","India","45/46","249","10","8th-match",NA,"Zimbabwe ",NA
+"170","Northampton","South-Africa-v-Sri-Lanka","May-19-1999","South Africa won by 89 runs","South Africa","50/50","199","9","Sri Lanka","35.2/50","110","10","9th-match",NA,"South Africa ",NA
+"171","Cardiff","Australia-v-New-Zealand","May-20-1999","New Zealand won by 5 wickets (with 28 balls remaining)","Australia","50/50","213","8","New Zealand","45.2/50","214","5","10th-match",NA,"New Zealand ",NA
+"172","Chester-le-Street","Pakistan-v-Scotland","May-20-1999","Pakistan won by 94 runs","Pakistan","50/50","261","6","Scotland","38.5/49","167","10","11th-match",NA,"Pakistan ",NA
+"173","Dublin","Bangladesh-v-West-Indies","May-21-1999","West Indies won by 7 wickets (with 21 balls remaining)","Bangladesh","49.2/50","182","10","West Indies","46.3/50","183","3","12th-match",NA,"West Indies ",NA
+"174","The-Oval","England-v-South-Africa","May-22-1999","South Africa won by 122 runs","South Africa","50/50","225","7","England","41/50","103","10","13th-match",NA,"South Africa ",NA
+"175","Worcester","Sri-Lanka-v-Zimbabwe","May-22-1999","Sri Lanka won by 4 wickets (with 24 balls remaining)","Zimbabwe","50/50","197","9","Sri Lanka","46/50","198","6","14th-match",NA,"Sri Lanka ",NA
+"176","Bristol","India-v-Kenya","May-23-1999","India won by 94 runs","India","50/50","329","2","Kenya","50/50","235","7","15th-match",NA,"India ",NA
+"177","Leeds","Australia-v-Pakistan","May-23-1999","Pakistan won by 10 runs","Pakistan","50/50","275","8","Australia","49.5/50","265","10","16th-match",NA,"Pakistan ",NA
+"178","Edinburgh","Scotland-v-Bangladesh","May-24-1999","Bangladesh won by 22 runs","Bangladesh","50/50","185","9","Scotland","46.2/49","163","10","17th-match",NA,"Bangladesh ",NA
+"179","Southampton","New-Zealand-v-West-Indies","May-24-1999","West Indies won by 7 wickets (with 34 balls remaining)","New Zealand","48.1/50","156","10","West Indies","44.2/50","158","3","18th-match",NA,"West Indies ",NA
+"180","Nottingham","England-v-Zimbabwe","May-25-1999","England won by 7 wickets (with 69 balls remaining)","Zimbabwe","50/50","167","8","England","38.3/50","168","3","19th-match",NA,"England ",NA
+"181","Amstelveen","Kenya-v-South-Africa","May-26-1999","South Africa won by 7 wickets (with 54 balls remaining)","Kenya","44.3/50","152","10","South Africa","41/50","153","3","20th-match",NA,"South Africa ",NA
+"182","Taunton","India-v-Sri-Lanka","May-26-1999","India won by 157 runs","India","50/50","373","6","Sri Lanka","42.3/50","216","10","21st-match",NA,"India ",NA
+"183","Chester-le-Street","Australia-v-Bangladesh","May-27-1999","Australia won by 7 wickets (with 181 balls remaining)","Bangladesh","50/50","178","7","Australia","19.5/50","181","3","22nd-match",NA,"Australia ",NA
+"184","Leicester","Scotland-v-West-Indies","May-27-1999","West Indies won by 8 wickets (with 239 balls remaining)","Scotland","31.3/50","68","10","West Indies","10.1/50","70","2","23rd-match",NA,"West Indies ",NA
+"185","Derby","New-Zealand-v-Pakistan","May-28-1999","Pakistan won by 62 runs","Pakistan","50/50","269","8","New Zealand","50/50","207","8","24th-match",NA,"Pakistan ",NA
+"186","Birmingham","England-v-India","May-29-30-1999","India won by 63 runs","India","50/50","232","8","England","45.2/50","169","10","25th-match",NA,"India ",NA
+"187","Chelmsford","South-Africa-v-Zimbabwe","May-29-1999","Zimbabwe won by 48 runs","Zimbabwe","50/50","233","6","South Africa","47.2/50","185","10","26th-match",NA,"Zimbabwe ",NA
+"188","Southampton","Kenya-v-Sri-Lanka","May-30-1999","Sri Lanka won by 45 runs","Sri Lanka","50/50","275","8","Kenya","50/50","230","6","27th-match",NA,"Sri Lanka ",NA
+"189","Manchester","Australia-v-West-Indies","May-30-1999","Australia won by 6 wickets (with 56 balls remaining)","West Indies","46.4/50","110","10","Australia","40.4/50","111","4","28th-match",NA,"Australia ",NA
+"190","Northampton","Bangladesh-v-Pakistan","May-31-1999","Bangladesh won by 62 runs","Bangladesh","50/50","223","9","Pakistan","44.3/49","161","10","29th-match",NA,"Bangladesh ",NA
+"191","Edinburgh","Scotland-v-New-Zealand","May-31-1999","New Zealand won by 6 wickets (with 193 balls remaining)","Scotland","42.1/50","121","10","New Zealand","17.5/50","123","4","30th-match",NA,"New Zealand ",NA
+"192","The-Oval","Australia-v-India","Jun-4-1999","Australia won by 77 runs","Australia","50/50","282","6","India","48.2/50","205","10","1st-super",NA,"Australia ",NA
+"193","Nottingham","Pakistan-v-South-Africa","Jun-5-1999","South Africa won by 3 wickets (with 6 balls remaining)","Pakistan","50/50","220","7","South Africa","49/50","221","7","2nd-super",NA,"South Africa ",NA
+"194","Leeds","New-Zealand-v-Zimbabwe","Jun-6-7-1999","No result","Zimbabwe","49.3/50","175","10","New Zealand","15/50","70","3","3rd-super",NA,"No result",NA
+"195","Manchester","India-v-Pakistan","Jun-8-1999","India won by 47 runs","India","50/50","227","6","Pakistan","45.3/50","180","10","4th-super",NA,"India ",NA
+"196","Lord's","Australia-v-Zimbabwe","Jun-9-1999","Australia won by 44 runs","Australia","50/50","303","4","Zimbabwe","50/50","259","6","5th-super",NA,"Australia ",NA
+"197","Birmingham","New-Zealand-v-South-Africa","Jun-10-1999","South Africa won by 74 runs","South Africa","50/50","287","5","New Zealand","50/50","213","8","6th-super",NA,"South Africa ",NA
+"198","The-Oval","Pakistan-v-Zimbabwe","Jun-11-1999","Pakistan won by 148 runs","Pakistan","50/50","271","9","Zimbabwe","40.3/49","123","10","7th-super",NA,"Pakistan ",NA
+"199","Nottingham","India-v-New-Zealand","Jun-12-1999","New Zealand won by 5 wickets (with 10 balls remaining)","India","50/50","251","6","New Zealand","48.2/50","253","5","8th-super",NA,"New Zealand ",NA
+"200","Leeds","Australia-v-South-Africa","Jun-13-1999","Australia won by 5 wickets (with 2 balls remaining)","South Africa","50/50","271","7","Australia","49.4/50","272","5","9th-super",NA,"Australia ",NA
+"201","Manchester","New-Zealand-v-Pakistan","Jun-16-1999","Pakistan won by 9 wickets (with 15 balls remaining)","New Zealand","50/50","241","7","Pakistan","47.3/50","242","1","1st-sf",NA,"Pakistan ",NA
+"202","Birmingham","Australia-v-South-Africa","Jun-17-1999","Match tied","Australia","49.2/50","213","10","South Africa","49.4/50","213","10","2nd-sf",NA,"Match tied",NA
+"203","Lord's","Australia-v-Pakistan","Jun-20-1999","Australia won by 8 wickets (with 179 balls remaining)","Pakistan","39/50","132","10","Australia","20.1/50","133","2","final",NA,"Australia ",NA
+"204","Cape-Town","South-Africa-v-West-Indies","Feb-9-2003","West Indies won by 3 runs","West Indies","50/50","278","5","South Africa","49/49","275","9","1st-match",NA,"West Indies ",NA
+"205","Harare","Zimbabwe-v-Namibia","Feb-10-2003","Zimbabwe won by 86 runs (D/L method)","Zimbabwe","50/50","340","2","Namibia","25.1/25.1,-target:-191","104","5","2nd-match",NA,"Zimbabwe ","D/L method"
+"206","Bloemfontein","New-Zealand-v-Sri-Lanka","Feb-10-2003","Sri Lanka won by 47 runs","Sri Lanka","50/50","272","7","New Zealand","45.3/50","225","10","3rd-match",NA,"Sri Lanka ",NA
+"207","Johannesburg","Australia-v-Pakistan","Feb-11-2003","Australia won by 82 runs","Australia","50/50","310","8","Pakistan","44.3/49","228","10","4th-match",NA,"Australia ",NA
+"208","Durban","Bangladesh-v-Canada","Feb-11-2003","Canada won by 60 runs","Canada","49.1/50","180","10","Bangladesh","28/50","120","10","5th-match",NA,"Canada ",NA
+"209","Potchefstroom","South-Africa-v-Kenya","Feb-12-2003","South Africa won by 10 wickets (with 172 balls remaining)","Kenya","38/50","140","10","South Africa","21.2/50","142","0","6th-match",NA,"South Africa ",NA
+"210","Paarl","India-v-Netherlands","Feb-12-2003","India won by 68 runs","India","48.5/50","204","10","Netherlands","48.1/50","136","10","7th-match",NA,"India ",NA
+"211","Harare","Zimbabwe-v-England","Feb-13-2003","Zimbabwe won (walkover without a ball bowled)",NA,NA,NA,"10",NA,NA,NA,"10","8th-match",NA,"Zimbabwe ",NA
+"212","Port-Elizabeth","New-Zealand-v-West-Indies","Feb-13-2003","New Zealand won by 20 runs","New Zealand","50/50","241","7","West Indies","49.4/50","221","10","9th-match",NA,"New Zealand ",NA
+"213","Pietermaritzburg","Bangladesh-v-Sri-Lanka","Feb-14-2003","Sri Lanka won by 10 wickets (with 173 balls remaining)","Bangladesh","31.1/50","124","10","Sri Lanka","21.1/50","126","0","10th-match",NA,"Sri Lanka ",NA
+"214","Centurion","Australia-v-India","Feb-15-2003","Australia won by 9 wickets (with 166 balls remaining)","India","41.4/50","125","10","Australia","22.2/50","128","1","11th-match",NA,"Australia ",NA
+"215","Cape-Town","Canada-v-Kenya","Feb-15-2003","Kenya won by 4 wickets (with 9 balls remaining)","Canada","49/50","197","10","Kenya","48.3/50","198","6","12th-match",NA,"Kenya ",NA
+"216","East-London","England-v-Netherlands","Feb-16-2003","England won by 6 wickets (with 160 balls remaining)","Netherlands","50/50","142","9","England","23.2/50","144","4","13th-match",NA,"England ",NA
+"217","Kimberley","Namibia-v-Pakistan","Feb-16-2003","Pakistan won by 171 runs","Pakistan","50/50","255","9","Namibia","17.4/50","84","10","14th-match",NA,"Pakistan ",NA
+"218","Johannesburg","South-Africa-v-New-Zealand","Feb-16-2003","New Zealand won by 9 wickets (with 13 balls remaining) (D/L method)","South Africa","50/50","306","6","New Zealand","36.5/39,-target:-226","229","1","15th-match",NA,"New Zealand ","D/L method"
+"219","Benoni","Bangladesh-v-West-Indies","Feb-18-2003","No result","West Indies","50/50","244","9","Bangladesh","8.1/50","32","2","16th-match",NA,"No result",NA
+"220","Harare","Zimbabwe-v-India","Feb-19-2003","India won by 83 runs","India","50/50","255","7","Zimbabwe","44.4/50","172","10","17th-match",NA,"India ",NA
+"221","Paarl","Canada-v-Sri-Lanka","Feb-19-2003","Sri Lanka won by 9 wickets (with 272 balls remaining)","Canada","18.4/50","36","10","Sri Lanka","4.4/50","37","1","18th-match",NA,"Sri Lanka ",NA
+"222","Port-Elizabeth","England-v-Namibia","Feb-19-2003","England won by 55 runs","England","50/50","272","10","Namibia","50/50","217","9","19th-match",NA,"England ",NA
+"223","Potchefstroom","Australia-v-Netherlands","Feb-20-2003","Australia won by 75 runs (D/L method)","Australia","36/36","170","2","Netherlands","30.2/36,-target:-198","122","10","20th-match",NA,"Australia ","D/L method"
+"224","Nairobi-(Gym)","Kenya-v-New-Zealand","Feb-21-2003","Kenya won (walkover without a ball bowled)",NA,NA,NA,"10",NA,NA,NA,"10","21st-match",NA,"Kenya ",NA
+"225","Bloemfontein","South-Africa-v-Bangladesh","Feb-22-2003","South Africa won by 10 wickets (with 228 balls remaining)","Bangladesh","35.1/50","108","10","South Africa","12/50","109","0","22nd-match",NA,"South Africa ",NA
+"226","Cape-Town","England-v-Pakistan","Feb-22-2003","England won by 112 runs","England","50/50","246","8","Pakistan","31/50","134","10","23rd-match",NA,"England ",NA
+"227","Centurion","Canada-v-West-Indies","Feb-23-2003","West Indies won by 7 wickets (with 177 balls remaining)","Canada","42.5/50","202","10","West Indies","20.3/50","206","3","24th-match",NA,"West Indies ",NA
+"228","Pietermaritzburg","India-v-Namibia","Feb-23-2003","India won by 181 runs","India","50/50","311","2","Namibia","42.3/50","130","10","25th-match",NA,"India ",NA
+"229","Nairobi-(Gym)","Kenya-v-Sri-Lanka","Feb-24-2003","Kenya won by 53 runs","Kenya","50/50","210","9","Sri Lanka","45/50","157","10","26th-match",NA,"Kenya ",NA
+"230","Bulawayo","Zimbabwe-v-Australia","Feb-24-2003","Australia won by 7 wickets (with 15 balls remaining)","Zimbabwe","50/50","246","9","Australia","47.3/50","248","3","27th-match",NA,"Australia ",NA
+"231","Paarl","Netherlands-v-Pakistan","Feb-25-2003","Pakistan won by 97 runs","Pakistan","50/50","253","9","Netherlands","39.3/50","156","10","28th-match",NA,"Pakistan ",NA
+"232","Kimberley","Bangladesh-v-New-Zealand","Feb-26-2003","New Zealand won by 7 wickets (with 99 balls remaining)","Bangladesh","50/50","198","7","New Zealand","33.3/50","199","3","29th-match",NA,"New Zealand ",NA
+"233","Durban","England-v-India","Feb-26-2003","India won by 82 runs","India","50/50","250","9","England","45.3/50","168","10","30th-match",NA,"India ",NA
+"234","Potchefstroom","Australia-v-Namibia","Feb-27-2003","Australia won by 256 runs","Australia","50/50","301","6","Namibia","14/50","45","10","31st-match",NA,"Australia ",NA
+"235","East-London","South-Africa-v-Canada","Feb-27-2003","South Africa won by 118 runs","South Africa","50/50","254","8","Canada","50/50","136","5","32nd-match",NA,"South Africa ",NA
+"236","Bulawayo","Zimbabwe-v-Netherlands","Feb-28-2003","Zimbabwe won by 99 runs","Zimbabwe","50/50","301","8","Netherlands","50/50","202","9","33rd-match",NA,"Zimbabwe ",NA
+"237","Cape-Town","Sri-Lanka-v-West-Indies","Feb-28-2003","Sri Lanka won by 6 runs","Sri Lanka","50/50","228","6","West Indies","50/50","222","9","34th-match",NA,"Sri Lanka ",NA
+"238","Johannesburg","Bangladesh-v-Kenya","Mar-1-2003","Kenya won by 32 runs","Kenya","50/50","217","7","Bangladesh","47.2/50","185","10","35th-match",NA,"Kenya ",NA
+"239","Centurion","India-v-Pakistan","Mar-1-2003","India won by 6 wickets (with 26 balls remaining)","Pakistan","50/50","273","7","India","45.4/50","276","4","36th-match",NA,"India ",NA
+"240","Port-Elizabeth","Australia-v-England","Mar-2-2003","Australia won by 2 wickets (with 2 balls remaining)","England","50/50","204","8","Australia","49.4/50","208","8","37th-match",NA,"Australia ",NA
+"241","Benoni","Canada-v-New-Zealand","Mar-3-2003","New Zealand won by 5 wickets (with 162 balls remaining)","Canada","47/50","196","10","New Zealand","23/50","197","5","38th-match",NA,"New Zealand ",NA
+"242","Bloemfontein","Namibia-v-Netherlands","Mar-3-2003","Netherlands won by 64 runs","Netherlands","50/50","314","4","Namibia","46.5/50","250","10","39th-match",NA,"Netherlands ",NA
+"243","Durban","South-Africa-v-Sri-Lanka","Mar-3-2003","Match tied (D/L method)","Sri Lanka","50/50","268","9","South Africa","45/45,-target:-230","229","6","40th-match",NA,"Match tied (D/L method)","D/L method"
+"244","Bulawayo","Zimbabwe-v-Pakistan","Mar-4-2003","No result","Pakistan","14/38","73","3",NA,NA,NA,NA,"41st-match",NA,"No result",NA
+"245","Kimberley","Kenya-v-West-Indies","Mar-4-2003","West Indies won by 142 runs","West Indies","50/50","246","7","Kenya","35.5/50","104","10","42nd-match",NA,"West Indies ",NA
+"246","Centurion","Australia-v-Sri-Lanka","Mar-7-2003","Australia won by 96 runs","Australia","50/50","319","5","Sri Lanka","47.4/50","223","10","1st-super",NA,"Australia ",NA
+"247","Cape-Town","India-v-Kenya","Mar-7-2003","India won by 6 wickets (with 13 balls remaining)","Kenya","50/50","225","6","India","47.5/50","226","4","2nd-super",NA,"India ",NA
+"248","Bloemfontein","New-Zealand-v-Zimbabwe","Mar-8-2003","New Zealand won by 6 wickets (with 16 balls remaining)","Zimbabwe","50/50","252","7","New Zealand","47.2/50","253","4","3rd-super",NA,"New Zealand ",NA
+"249","Johannesburg","India-v-Sri-Lanka","Mar-10-2003","India won by 183 runs","India","50/50","292","6","Sri Lanka","23/50","109","10","4th-super",NA,"India ",NA
+"250","Port-Elizabeth","Australia-v-New-Zealand","Mar-11-2003","Australia won by 96 runs","Australia","50/50","208","9","New Zealand","30.1/50","112","10","5th-super",NA,"Australia ",NA
+"251","Bloemfontein","Kenya-v-Zimbabwe","Mar-12-2003","Kenya won by 7 wickets (with 144 balls remaining)","Zimbabwe","44.1/50","133","10","Kenya","26/50","135","3","6th-super",NA,"Kenya ",NA
+"252","Centurion","India-v-New-Zealand","Mar-14-2003","India won by 7 wickets (with 56 balls remaining)","New Zealand","45.1/50","146","10","India","40.4/50","150","3","7th-super",NA,"India ",NA
+"253","East-London","Sri-Lanka-v-Zimbabwe","Mar-15-2003","Sri Lanka won by 74 runs","Sri Lanka","50/50","256","5","Zimbabwe","41.5/50","182","10","8th-super",NA,"Sri Lanka ",NA
+"254","Durban","Australia-v-Kenya","Mar-15-2003","Australia won by 5 wickets (with 112 balls remaining)","Kenya","50/50","174","8","Australia","31.2/50","178","5","9th-super",NA,"Australia ",NA
+"255","Port-Elizabeth","Australia-v-Sri-Lanka","Mar-18-2003","Australia won by 48 runs (D/L method)","Australia","50/50","212","7","Sri Lanka","38.1/38.1,-target:-172","123","7","1st-sf",NA,"Australia ","D/L method"
+"256","Durban","India-v-Kenya","Mar-20-2003","India won by 91 runs","India","50/50","270","4","Kenya","46.2/50","179","10","2nd-sf",NA,"India ",NA
+"257","Johannesburg","Australia-v-India","Mar-23-2003","Australia won by 125 runs","Australia","50/50","359","2","India","39.2/50","234","10","final",NA,"Australia ",NA
+"258","Kingston","West-Indies-v-Pakistan","Mar-13-2007","West Indies won by 54 runs","West Indies","50/50","241","9","Pakistan","47.2/50","187","10","1st-match","Group-D","West Indies ",NA
+"259","Basseterre","Australia-v-Scotland","Mar-14-2007","Australia won by 203 runs","Australia","50/50","334","6","Scotland","40.1/50","131","10","2nd-match","Group-A","Australia ",NA
+"260","Gros-Islet","Canada-v-Kenya","Mar-14-2007","Kenya won by 7 wickets (with 40 balls remaining)","Canada","50/50","199","10","Kenya","43.2/50","203","3","3rd-match","Group-C","Kenya ",NA
+"261","Port-of-Spain","Bermuda-v-Sri-Lanka","Mar-15-2007","Sri Lanka won by 243 runs","Sri Lanka","50/50","321","6","Bermuda","24.4/50","78","10","4th-match","Group-B","Sri Lanka ",NA
+"262","Kingston","Ireland-v-Zimbabwe","Mar-15-2007","Match tied","Ireland","50/50","221","9","Zimbabwe","50/50","221","10","5th-match","Group-D","Match tied",NA
+"263","Gros-Islet","England-v-New-Zealand","Mar-16-2007","New Zealand won by 6 wickets (with 54 balls remaining)","England","50/50","209","7","New Zealand","41/50","210","4","6th-match","Group-C","New Zealand ",NA
+"264","Basseterre","Netherlands-v-South-Africa","Mar-16-2007","South Africa won by 221 runs","South Africa","40/40","353","3","Netherlands","40/40","132","9","7th-match","Group-A","South Africa ",NA
+"265","Port-of-Spain","Bangladesh-v-India","Mar-17-2007","Bangladesh won by 5 wickets (with 9 balls remaining)","India","49.3/50","191","10","Bangladesh","48.3/50","192","5","8th-match","Group-B","Bangladesh ",NA
+"266","Kingston","Ireland-v-Pakistan","Mar-17-2007","Ireland won by 3 wickets (with 32 balls remaining) (D/L method)","Pakistan","45.4/50","132","10","Ireland","41.4/47,-target:-128","133","7","9th-match","Group-D","Ireland ","D/L method"
+"267","Basseterre","Australia-v-Netherlands","Mar-18-2007","Australia won by 229 runs","Australia","50/50","358","5","Netherlands","26.5/50","129","10","10th-match","Group-A","Australia ",NA
+"268","Gros-Islet","Canada-v-England","Mar-18-2007","England won by 51 runs","England","50/50","279","6","Canada","50/50","228","7","11th-match","Group-C","England ",NA
+"269","Port-of-Spain","Bermuda-v-India","Mar-19-2007","India won by 257 runs","India","50/50","413","5","Bermuda","43.1/50","156","10","12th-match","Group-B","India ",NA
+"270","Kingston","West-Indies-v-Zimbabwe","Mar-19-2007","West Indies won by 6 wickets (with 13 balls remaining)","Zimbabwe","50/50","202","5","West Indies","47.5/50","204","4","13th-match","Group-D","West Indies ",NA
+"271","Gros-Islet","Kenya-v-New-Zealand","Mar-20-2007","New Zealand won by 148 runs","New Zealand","50/50","331","7","Kenya","49.2/50","183","10","14th-match","Group-C","New Zealand ",NA
+"272","Basseterre","Scotland-v-South-Africa","Mar-20-2007","South Africa won by 7 wickets (with 160 balls remaining)","Scotland","50/50","186","8","South Africa","23.2/50","188","3","15th-match","Group-A","South Africa ",NA
+"273","Port-of-Spain","Bangladesh-v-Sri-Lanka","Mar-21-2007","Sri Lanka won by 198 runs (D/L method)","Sri Lanka","50/50","318","4","Bangladesh","37/46,-target:-311","112","10","16th-match","Group-B","Sri Lanka ","D/L method"
+"274","Kingston","Pakistan-v-Zimbabwe","Mar-21-2007","Pakistan won by 93 runs (D/L method)","Pakistan","49.5/50","349","10","Zimbabwe","19.1/20,-target:-193","99","10","17th-match","Group-D","Pakistan ","D/L method"
+"275","Gros-Islet","Canada-v-New-Zealand","Mar-22-2007","New Zealand won by 114 runs","New Zealand","50/50","363","5","Canada","49.2/50","249","10","18th-match","Group-C","New Zealand ",NA
+"276","Basseterre","Netherlands-v-Scotland","Mar-22-2007","Netherlands won by 8 wickets (with 157 balls remaining)","Scotland","34.1/50","136","10","Netherlands","23.5/50","140","2","19th-match","Group-A","Netherlands ",NA
+"277","Port-of-Spain","India-v-Sri-Lanka","Mar-23-2007","Sri Lanka won by 69 runs","Sri Lanka","50/50","254","6","India","43.3/50","185","10","20th-match","Group-B","Sri Lanka ",NA
+"278","Kingston","West-Indies-v-Ireland","Mar-23-2007","West Indies won by 8 wickets (with 59 balls remaining) (D/L method)","Ireland","48/48","183","8","West Indies","38.1/48,-target:-190","190","2","21st-match","Group-D","West Indies ","D/L method"
+"279","Basseterre","Australia-v-South-Africa","Mar-24-2007","Australia won by 83 runs","Australia","50/50","377","6","South Africa","48/50","294","10","22nd-match","Group-A","Australia ",NA
+"280","Gros-Islet","England-v-Kenya","Mar-24-2007","England won by 7 wickets (with 60 balls remaining)","Kenya","43/43","177","10","England","33/43","178","3","23rd-match","Group-C","England ",NA
+"281","Port-of-Spain","Bangladesh-v-Bermuda","Mar-25-2007","Bangladesh won by 7 wickets (with 21 balls remaining) (D/L method)","Bermuda","21/21","94","9","Bangladesh","17.3/21,-target:-96","96","3","24th-match","Group-B","Bangladesh ","D/L method"
+"282","North-Sound","West-Indies-v-Australia","Mar-27-28-2007","Australia won by 103 runs","Australia","50/50","322","6","West Indies","45.3/50","219","10","25th-match","Super-Eights","Australia ",NA
+"283","Providence","South-Africa-v-Sri-Lanka","Mar-28-2007","South Africa won by 1 wicket (with 10 balls remaining)","Sri Lanka","49.3/50","209","10","South Africa","48.2/50","212","9","26th-match","Super-Eights","South Africa ",NA
+"284","North-Sound","West-Indies-v-New-Zealand","Mar-29-2007","New Zealand won by 7 wickets (with 64 balls remaining)","West Indies","44.4/50","177","10","New Zealand","39.2/50","179","3","27th-match","Super-Eights","New Zealand ",NA
+"285","Providence","England-v-Ireland","Mar-30-2007","England won by 48 runs","England","50/50","266","7","Ireland","48.1/50","218","10","28th-match","Super-Eights","England ",NA
+"286","North-Sound","Australia-v-Bangladesh","Mar-31-2007","Australia won by 10 wickets (with 49 balls remaining)","Bangladesh","22/22","104","6","Australia","13.5/22","106","0","29th-match","Super-Eights","Australia ",NA
+"287","Providence","West-Indies-v-Sri-Lanka","Apr-1-2007","Sri Lanka won by 113 runs","Sri Lanka","50/50","303","5","West Indies","44.3/50","190","10","30th-match","Super-Eights","Sri Lanka ",NA
+"288","North-Sound","Bangladesh-v-New-Zealand","Apr-2-2007","New Zealand won by 9 wickets (with 124 balls remaining)","Bangladesh","48.3/50","174","10","New Zealand","29.2/50","178","1","31st-match","Super-Eights","New Zealand ",NA
+"289","Providence","Ireland-v-South-Africa","Apr-3-2007","South Africa won by 7 wickets (with 21 balls remaining) (D/L method)","Ireland","35/35","152","8","South Africa","31.3/35,-target:-160","165","3","32nd-match","Super-Eights","South Africa ","D/L method"
+"290","North-Sound","England-v-Sri-Lanka","Apr-4-2007","Sri Lanka won by 2 runs","Sri Lanka","50/50","235","10","England","50/50","233","8","33rd-match","Super-Eights","Sri Lanka ",NA
+"291","Providence","Bangladesh-v-South-Africa","Apr-7-2007","Bangladesh won by 67 runs","Bangladesh","50/50","251","8","South Africa","48.4/50","184","10","34th-match","Super-Eights","Bangladesh ",NA
+"292","North-Sound","Australia-v-England","Apr-8-2007","Australia won by 7 wickets (with 16 balls remaining)","England","49.5/50","247","10","Australia","47.2/50","248","3","35th-match","Super-Eights","Australia ",NA
+"293","Providence","Ireland-v-New-Zealand","Apr-9-2007","New Zealand won by 129 runs","New Zealand","50/50","263","8","Ireland","37.4/50","134","10","36th-match","Super-Eights","New Zealand ",NA
+"294","St-George's","West-Indies-v-South-Africa","Apr-10-2007","South Africa won by 67 runs","South Africa","50/50","356","4","West Indies","50/50","289","9","37th-match","Super-Eights","South Africa ",NA
+"295","Bridgetown","Bangladesh-v-England","Apr-11-2007","England won by 4 wickets (with 31 balls remaining)","Bangladesh","37.2/50","143","10","England","44.5/50","147","6","38th-match","Super-Eights","England ",NA
+"296","St-George's","New-Zealand-v-Sri-Lanka","Apr-12-2007","Sri Lanka won by 6 wickets (with 29 balls remaining)","New Zealand","50/50","219","7","Sri Lanka","45.1/50","222","4","39th-match","Super-Eights","Sri Lanka ",NA
+"297","Bridgetown","Australia-v-Ireland","Apr-13-2007","Australia won by 9 wickets (with 226 balls remaining)","Ireland","30/50","91","10","Australia","12.2/50","92","1","40th-match","Super-Eights","Australia ",NA
+"298","St-George's","New-Zealand-v-South-Africa","Apr-14-2007","New Zealand won by 5 wickets (with 10 balls remaining)","South Africa","50/50","193","7","New Zealand","48.2/50","196","5","41st-match","Super-Eights","New Zealand ",NA
+"299","Bridgetown","Bangladesh-v-Ireland","Apr-15-2007","Ireland won by 74 runs","Ireland","50/50","243","7","Bangladesh","41.2/50","169","10","42nd-match","Super-Eights","Ireland ",NA
+"300","St-George's","Australia-v-Sri-Lanka","Apr-16-2007","Australia won by 7 wickets (with 44 balls remaining)","Sri Lanka","49.4/50","226","10","Australia","42.4/50","232","3","43rd-match","Super-Eights","Australia ",NA
+"301","Bridgetown","England-v-South-Africa","Apr-17-2007","South Africa won by 9 wickets (with 184 balls remaining)","England","48/50","154","10","South Africa","19.2/50","157","1","44th-match","Super-Eights","South Africa ",NA
+"302","St-George's","Ireland-v-Sri-Lanka","Apr-18-2007","Sri Lanka won by 8 wickets (with 240 balls remaining)","Ireland","27.4/50","77","10","Sri Lanka","10/50","81","2","45th-match","Super-Eights","Sri Lanka ",NA
+"303","Bridgetown","West-Indies-v-Bangladesh","Apr-19-2007","West Indies won by 99 runs","West Indies","50/50","230","5","Bangladesh","43.5/50","131","10","46th-match","Super-Eights","West Indies ",NA
+"304","St-George's","Australia-v-New-Zealand","Apr-20-2007","Australia won by 215 runs","Australia","50/50","348","6","New Zealand","25.5/50","133","10","47th-match","Super-Eights","Australia ",NA
+"305","Bridgetown","West-Indies-v-England","Apr-21-2007","England won by 1 wicket (with 1 ball remaining)","West Indies","49.5/50","300","10","England","49.5/50","301","9","48th-match","Super-Eights","England ",NA
+"306","Kingston","New-Zealand-v-Sri-Lanka","Apr-24-2007","Sri Lanka won by 81 runs","Sri Lanka","50/50","289","5","New Zealand","41.4/50","208","10","1st-sf",NA,"Sri Lanka ",NA
+"307","Gros-Islet","Australia-v-South-Africa","Apr-25-2007","Australia won by 7 wickets (with 111 balls remaining)","South Africa","43.5/50","149","10","Australia","31.3/50","153","3","2nd-sf",NA,"Australia ",NA
+"308","Bridgetown","Australia-v-Sri-Lanka","Apr-28-2007","Australia won by 53 runs (D/L method)","Australia","38/38","281","4","Sri Lanka","36/36,-target:-269","215","8","final",NA,"Australia ","D/L method"
+"309","Dhaka","Bangladesh-v-India","Feb-19-2011","India won by 87 runs","India","50/50","370","4","Bangladesh","50/50","283","9","1st-match","Group-B","India ",NA
+"310","Chennai","Kenya-v-New-Zealand","Feb-20-2011","New Zealand won by 10 wickets (with 252 balls remaining)","Kenya","23.5/50","69","10","New Zealand","8/50","72","0","2nd-match","Group-A","New Zealand ",NA
+"311","Hambantota","Sri-Lanka-v-Canada","Feb-20-2011","Sri Lanka won by 210 runs","Sri Lanka","50/50","332","7","Canada","36.5/50","122","10","3rd-match","Group-A","Sri Lanka ",NA
+"312","Ahmedabad","Australia-v-Zimbabwe","Feb-21-2011","Australia won by 91 runs","Australia","50/50","262","6","Zimbabwe","46.2/50","171","10","4th-match","Group-A","Australia ",NA
+"313","Nagpur","England-v-Netherlands","Feb-22-2011","England won by 6 wickets (with 8 balls remaining)","Netherlands","50/50","292","6","England","48.4/50","296","4","5th-match","Group-B","England ",NA
+"314","Hambantota","Kenya-v-Pakistan","Feb-23-2011","Pakistan won by 205 runs","Pakistan","50/50","317","7","Kenya","33.1/50","112","10","6th-match","Group-A","Pakistan ",NA
+"315","Delhi","South-Africa-v-West-Indies","Feb-24-2011","South Africa won by 7 wickets (with 43 balls remaining)","West Indies","47.3/50","222","10","South Africa","42.5/50","223","3","7th-match","Group-B","South Africa ",NA
+"316","Nagpur","Australia-v-New-Zealand","Feb-25-2011","Australia won by 7 wickets (with 96 balls remaining)","New Zealand","45.1/50","206","10","Australia","34/50","207","3","8th-match","Group-A","Australia ",NA
+"317","Dhaka","Bangladesh-v-Ireland","Feb-25-2011","Bangladesh won by 27 runs","Bangladesh","49.2/50","205","10","Ireland","45/50","178","10","9th-match","Group-B","Bangladesh ",NA
+"318","Colombo-(RPS)","Sri-Lanka-v-Pakistan","Feb-26-2011","Pakistan won by 11 runs","Pakistan","50/50","277","7","Sri Lanka","50/50","266","9","10th-match","Group-A","Pakistan ",NA
+"319","Bengaluru","India-v-England","Feb-27-2011","Match tied","India","49.5/50","338","10","England","50/50","338","8","11th-match","Group-B","Match tied",NA
+"320","Nagpur","Canada-v-Zimbabwe","Feb-28-2011","Zimbabwe won by 175 runs","Zimbabwe","50/50","298","9","Canada","42.1/50","123","10","12th-match","Group-A","Zimbabwe ",NA
+"321","Delhi","Netherlands-v-West-Indies","Feb-28-2011","West Indies won by 215 runs","West Indies","50/50","330","8","Netherlands","31.3/50","115","10","13th-match","Group-B","West Indies ",NA
+"322","Colombo-(RPS)","Sri-Lanka-v-Kenya","Mar-1-2011","Sri Lanka won by 9 wickets (with 188 balls remaining)","Kenya","43.4/50","142","10","Sri Lanka","18.4/50","146","1","14th-match","Group-A","Sri Lanka ",NA
+"323","Bengaluru","England-v-Ireland","Mar-2-2011","Ireland won by 3 wickets (with 5 balls remaining)","England","50/50","327","8","Ireland","49.1/50","329","7","15th-match","Group-B","Ireland ",NA
+"324","Mohali","Netherlands-v-South-Africa","Mar-3-2011","South Africa won by 231 runs","South Africa","50/50","351","5","Netherlands","34.5/50","120","10","16th-match","Group-B","South Africa ",NA
+"325","Colombo-(RPS)","Canada-v-Pakistan","Mar-3-2011","Pakistan won by 46 runs","Pakistan","43/50","184","10","Canada","42.5/50","138","10","17th-match","Group-A","Pakistan ",NA
+"326","Ahmedabad","New-Zealand-v-Zimbabwe","Mar-4-2011","New Zealand won by 10 wickets (with 99 balls remaining)","Zimbabwe","46.2/50","162","10","New Zealand","33.3/50","166","0","18th-match","Group-A","New Zealand ",NA
+"327","Dhaka","Bangladesh-v-West-Indies","Mar-4-2011","West Indies won by 9 wickets (with 226 balls remaining)","Bangladesh","18.5/50","58","10","West Indies","12.2/50","59","1","19th-match","Group-B","West Indies ",NA
+"328","Colombo-(RPS)","Sri-Lanka-v-Australia","Mar-5-2011","No result","Sri Lanka","32.5/50","146","3",NA,NA,NA,NA,"20th-match","Group-A","No result",NA
+"329","Chennai","England-v-South-Africa","Mar-6-2011","England won by 6 runs","England","45.4/50","171","10","South Africa","47.4/50","165","10","21st-match","Group-B","England ",NA
+"330","Bengaluru","India-v-Ireland","Mar-6-2011","India won by 5 wickets (with 24 balls remaining)","Ireland","47.5/50","207","10","India","46/50","210","5","22nd-match","Group-B","India ",NA
+"331","Delhi","Canada-v-Kenya","Mar-7-2011","Canada won by 5 wickets (with 27 balls remaining)","Kenya","50/50","198","10","Canada","45.3/50","199","5","23rd-match","Group-A","Canada ",NA
+"332","Pallekele","New-Zealand-v-Pakistan","Mar-8-2011","New Zealand won by 110 runs","New Zealand","50/50","302","7","Pakistan","41.4/50","192","10","24th-match","Group-A","New Zealand ",NA
+"333","Delhi","India-v-Netherlands","Mar-9-2011","India won by 5 wickets (with 81 balls remaining)","Netherlands","46.4/50","189","10","India","36.3/50","191","5","25th-match","Group-B","India ",NA
+"334","Pallekele","Sri-Lanka-v-Zimbabwe","Mar-10-2011","Sri Lanka won by 139 runs","Sri Lanka","50/50","327","6","Zimbabwe","39/50","188","10","26th-match","Group-A","Sri Lanka ",NA
+"335","Mohali","Ireland-v-West-Indies","Mar-11-2011","West Indies won by 44 runs","West Indies","50/50","275","10","Ireland","49/50","231","10","27th-match","Group-B","West Indies ",NA
+"336","Chattogram","Bangladesh-v-England","Mar-11-2011","Bangladesh won by 2 wickets (with 6 balls remaining)","England","49.4/50","225","10","Bangladesh","49/50","227","8","28th-match","Group-B","Bangladesh ",NA
+"337","Nagpur","India-v-South-Africa","Mar-12-2011","South Africa won by 3 wickets (with 2 balls remaining)","India","48.4/50","296","10","South Africa","49.4/50","300","7","29th-match","Group-B","South Africa ",NA
+"338","Mumbai","Canada-v-New-Zealand","Mar-13-2011","New Zealand won by 97 runs","New Zealand","50/50","358","6","Canada","50/50","261","9","30th-match","Group-A","New Zealand ",NA
+"339","Bengaluru","Australia-v-Kenya","Mar-13-2011","Australia won by 60 runs","Australia","50/50","324","6","Kenya","50/50","264","6","31st-match","Group-A","Australia ",NA
+"340","Chattogram","Bangladesh-v-Netherlands","Mar-14-2011","Bangladesh won by 6 wickets (with 52 balls remaining)","Netherlands","46.2/50","160","10","Bangladesh","41.2/50","166","4","32nd-match","Group-B","Bangladesh ",NA
+"341","Pallekele","Pakistan-v-Zimbabwe","Mar-14-2011","Pakistan won by 7 wickets (with 23 balls remaining) (D/L method)","Zimbabwe","39.4/39.4","151","7","Pakistan","34.1/38,-target:-162","164","3","33rd-match","Group-A","Pakistan ","D/L method"
+"342","Kolkata","Ireland-v-South-Africa","Mar-15-2011","South Africa won by 131 runs","South Africa","50/50","272","7","Ireland","33.2/50","141","10","34th-match","Group-B","South Africa ",NA
+"343","Bengaluru","Australia-v-Canada","Mar-16-2011","Australia won by 7 wickets (with 91 balls remaining)","Canada","45.4/50","211","10","Australia","34.5/50","212","3","35th-match","Group-A","Australia ",NA
+"344","Chennai","England-v-West-Indies","Mar-17-2011","England won by 18 runs","England","48.4/50","243","10","West Indies","44.4/50","225","10","36th-match","Group-B","England ",NA
+"345","Kolkata","Ireland-v-Netherlands","Mar-18-2011","Ireland won by 6 wickets (with 14 balls remaining)","Netherlands","50/50","306","10","Ireland","47.4/50","307","4","37th-match","Group-B","Ireland ",NA
+"346","Mumbai","New-Zealand-v-Sri-Lanka","Mar-18-2011","Sri Lanka won by 112 runs","Sri Lanka","50/50","265","9","New Zealand","35/50","153","10","38th-match","Group-A","Sri Lanka ",NA
+"347","Dhaka","Bangladesh-v-South-Africa","Mar-19-2011","South Africa won by 206 runs","South Africa","50/50","284","8","Bangladesh","28/50","78","10","39th-match","Group-B","South Africa ",NA
+"348","Colombo-(RPS)","Australia-v-Pakistan","Mar-19-2011","Pakistan won by 4 wickets (with 54 balls remaining)","Australia","46.4/50","176","10","Pakistan","41/50","178","6","40th-match","Group-A","Pakistan ",NA
+"349","Kolkata","Kenya-v-Zimbabwe","Mar-20-2011","Zimbabwe won by 161 runs","Zimbabwe","50/50","308","6","Kenya","36/50","147","10","41st-match","Group-A","Zimbabwe ",NA
+"350","Chennai","India-v-West-Indies","Mar-20-2011","India won by 80 runs","India","49.1/50","268","10","West Indies","43/50","188","10","42nd-match","Group-B","India ",NA
+"351","Dhaka","Pakistan-v-West-Indies","Mar-23-2011","Pakistan won by 10 wickets (with 175 balls remaining)","West Indies","43.3/50","112","10","Pakistan","20.5/50","113","0","1st-qf",NA,"Pakistan ",NA
+"352","Ahmedabad","India-v-Australia","Mar-24-2011","India won by 5 wickets (with 14 balls remaining)","Australia","50/50","260","6","India","47.4/50","261","5","2nd-qf",NA,"India ",NA
+"353","Dhaka","New-Zealand-v-South-Africa","Mar-25-2011","New Zealand won by 49 runs","New Zealand","50/50","221","8","South Africa","43.2/50","172","10","3rd-qf",NA,"New Zealand ",NA
+"354","Colombo-(RPS)","Sri-Lanka-v-England","Mar-26-2011","Sri Lanka won by 10 wickets (with 63 balls remaining)","England","50/50","229","6","Sri Lanka","39.3/50","231","0","4th-qf",NA,"Sri Lanka ",NA
+"355","Colombo-(RPS)","Sri-Lanka-v-New-Zealand","Mar-29-2011","Sri Lanka won by 5 wickets (with 13 balls remaining)","New Zealand","48.5/50","217","10","Sri Lanka","47.5/50","220","5","1st-sf",NA,"Sri Lanka ",NA
+"356","Mohali","India-v-Pakistan","Mar-30-2011","India won by 29 runs","India","50/50","260","9","Pakistan","49.5/50","231","10","2nd-sf",NA,"India ",NA
+"357","Mumbai","India-v-Sri-Lanka","Apr-2-2011","India won by 6 wickets (with 10 balls remaining)","Sri Lanka","50/50","274","6","India","48.2/50","277","4","final",NA,"India ",NA
+"358","Christchurch","New-Zealand-v-Sri-Lanka","Feb-14-2015","New Zealand won by 98 runs","New Zealand","50/50","331","6","Sri Lanka","46.1/50","233","10","1st-match","Pool-A","New Zealand ",NA
+"359","Melbourne","Australia-v-England","Feb-14-2015","Australia won by 111 runs","Australia","50/50","342","9","England","41.5/50","231","10","2nd-match","Pool-A","Australia ",NA
+"360","Hamilton","South-Africa-v-Zimbabwe","Feb-15-2015","South Africa won by 62 runs","South Africa","50/50","339","4","Zimbabwe","48.2/50","277","10","3rd-match","Pool-B","South Africa ",NA
+"361","Adelaide","India-v-Pakistan","Feb-15-2015","India won by 76 runs","India","50/50","300","7","Pakistan","47/50","224","10","4th-match","Pool-B","India ",NA
+"362","Nelson","Ireland-v-West-Indies","Feb-16-2015","Ireland won by 4 wickets (with 25 balls remaining)","West Indies","50/50","304","7","Ireland","45.5/50","307","6","5th-match","Pool-B","Ireland ",NA
+"363","Dunedin","New-Zealand-v-Scotland","Feb-17-2015","New Zealand won by 3 wickets (with 151 balls remaining)","Scotland","36.2/50","142","10","New Zealand","24.5/50","146","7","6th-match","Pool-A","New Zealand ",NA
+"364","Canberra","Afghanistan-v-Bangladesh","Feb-18-2015","Bangladesh won by 105 runs","Bangladesh","50/50","267","10","Afghanistan","42.5/50","162","10","7th-match","Pool-A","Bangladesh ",NA
+"365","Nelson","United-Arab-Emirates-v-Zimbabwe","Feb-19-2015","Zimbabwe won by 4 wickets (with 12 balls remaining)","United Arab Emirates","50/50","285","7","Zimbabwe","48/50","286","6","8th-match","Pool-B","Zimbabwe ",NA
+"366","Wellington","New-Zealand-v-England","Feb-20-2015","New Zealand won by 8 wickets (with 226 balls remaining)","England","33.2/50","123","10","New Zealand","12.2/50","125","2","9th-match","Pool-A","New Zealand ",NA
+"367","Christchurch","Pakistan-v-West-Indies","Feb-21-2015","West Indies won by 150 runs","West Indies","50/50","310","6","Pakistan","39/50","160","10","10th-match","Pool-B","West Indies ",NA
+"368","Brisbane","Australia-v-Bangladesh","Feb-21-2015","Match abandoned without a ball bowled",NA,NA,NA,NA,NA,NA,NA,NA,"11th-match","Pool-A","Match abandoned without a ball bowled",NA
+"369","Dunedin","Afghanistan-v-Sri-Lanka","Feb-22-2015","Sri Lanka won by 4 wickets (with 10 balls remaining)","Afghanistan","49.4/50","232","10","Sri Lanka","48.2/50","236","6","12th-match","Pool-A","Sri Lanka ",NA
+"370","Melbourne","India-v-South-Africa","Feb-22-2015","India won by 130 runs","India","50/50","307","7","South Africa","40.2/50","177","10","13th-match","Pool-B","India ",NA
+"371","Christchurch","England-v-Scotland","Feb-23-2015","England won by 119 runs","England","50/50","303","8","Scotland","42.2/50","184","10","14th-match","Pool-A","England ",NA
+"372","Canberra","West-Indies-v-Zimbabwe","Feb-24-2015","West Indies won by 73 runs (D/L method)","West Indies","50/50","372","2","Zimbabwe","44.3/48,-target:-363","289","10","15th-match","Pool-B","West Indies ","D/L method"
+"373","Brisbane","Ireland-v-United-Arab-Emirates","Feb-25-2015","Ireland won by 2 wickets (with 4 balls remaining)","United Arab Emirates","50/50","278","9","Ireland","49.2/50","279","8","16th-match","Pool-B","Ireland ",NA
+"374","Dunedin","Afghanistan-v-Scotland","Feb-26-2015","Afghanistan won by 1 wicket (with 3 balls remaining)","Scotland","50/50","210","10","Afghanistan","49.3/50","211","9","17th-match","Pool-A","Afghanistan ",NA
+"375","Melbourne","Bangladesh-v-Sri-Lanka","Feb-26-2015","Sri Lanka won by 92 runs","Sri Lanka","50/50","332","1","Bangladesh","47/50","240","10","18th-match","Pool-A","Sri Lanka ",NA
+"376","Sydney","South-Africa-v-West-Indies","Feb-27-2015","South Africa won by 257 runs","South Africa","50/50","408","5","West Indies","33.1/50","151","10","19th-match","Pool-B","South Africa ",NA
+"377","Auckland","New-Zealand-v-Australia","Feb-28-2015","New Zealand won by 1 wicket (with 161 balls remaining)","Australia","32.2/50","151","10","New Zealand","23.1/50","152","9","20th-match","Pool-A","New Zealand ",NA
+"378","Perth","India-v-United-Arab-Emirates","Feb-28-2015","India won by 9 wickets (with 187 balls remaining)","United Arab Emirates","31.3/50","102","10","India","18.5/50","104","1","21st-match","Pool-B","India ",NA
+"379","Wellington","England-v-Sri-Lanka","Mar-1-2015","Sri Lanka won by 9 wickets (with 16 balls remaining)","England","50/50","309","6","Sri Lanka","47.2/50","312","1","22nd-match","Pool-A","Sri Lanka ",NA
+"380","Brisbane","Pakistan-v-Zimbabwe","Mar-1-2015","Pakistan won by 20 runs","Pakistan","50/50","235","7","Zimbabwe","49.4/50","215","10","23rd-match","Pool-B","Pakistan ",NA
+"381","Canberra","Ireland-v-South-Africa","Mar-3-2015","South Africa won by 201 runs","South Africa","50/50","411","4","Ireland","45/50","210","10","24th-match","Pool-B","South Africa ",NA
+"382","Napier","Pakistan-v-United-Arab-Emirates","Mar-4-2015","Pakistan won by 129 runs","Pakistan","50/50","339","6","United Arab Emirates","50/50","210","8","25th-match","Pool-B","Pakistan ",NA
+"383","Perth","Australia-v-Afghanistan","Mar-4-2015","Australia won by 275 runs","Australia","50/50","417","6","Afghanistan","37.3/50","142","10","26th-match","Pool-A","Australia ",NA
+"384","Nelson","Bangladesh-v-Scotland","Mar-5-2015","Bangladesh won by 6 wickets (with 11 balls remaining)","Scotland","50/50","318","8","Bangladesh","48.1/50","322","4","27th-match","Pool-A","Bangladesh ",NA
+"385","Perth","India-v-West-Indies","Mar-6-2015","India won by 4 wickets (with 65 balls remaining)","West Indies","44.2/50","182","10","India","39.1/50","185","6","28th-match","Pool-B","India ",NA
+"386","Auckland","Pakistan-v-South-Africa","Mar-7-2015","Pakistan won by 29 runs (D/L method)","Pakistan","46.4/47","222","10","South Africa","33.3/47,-target:-232","202","10","29th-match","Pool-B","Pakistan ","D/L method"
+"387","Hobart","Ireland-v-Zimbabwe","Mar-7-2015","Ireland won by 5 runs","Ireland","50/50","331","8","Zimbabwe","49.3/50","326","10","30th-match","Pool-B","Ireland ",NA
+"388","Napier","New-Zealand-v-Afghanistan","Mar-8-2015","New Zealand won by 6 wickets (with 83 balls remaining)","Afghanistan","47.4/50","186","10","New Zealand","36.1/50","188","4","31st-match","Pool-A","New Zealand ",NA
+"389","Sydney","Australia-v-Sri-Lanka","Mar-8-2015","Australia won by 64 runs","Australia","50/50","376","9","Sri Lanka","46.2/50","312","10","32nd-match","Pool-A","Australia ",NA
+"390","Adelaide","Bangladesh-v-England","Mar-9-2015","Bangladesh won by 15 runs","Bangladesh","50/50","275","7","England","48.3/50","260","10","33rd-match","Pool-A","Bangladesh ",NA
+"391","Hamilton","India-v-Ireland","Mar-10-2015","India won by 8 wickets (with 79 balls remaining)","Ireland","49/50","259","10","India","36.5/50","260","2","34th-match","Pool-B","India ",NA
+"392","Hobart","Scotland-v-Sri-Lanka","Mar-11-2015","Sri Lanka won by 148 runs","Sri Lanka","50/50","363","9","Scotland","43.1/50","215","10","35th-match","Pool-A","Sri Lanka ",NA
+"393","Wellington","South-Africa-v-United-Arab-Emirates","Mar-12-2015","South Africa won by 146 runs","South Africa","50/50","341","6","United Arab Emirates","47.3/50","195","10","36th-match","Pool-B","South Africa ",NA
+"394","Hamilton","New-Zealand-v-Bangladesh","Mar-13-2015","New Zealand won by 3 wickets (with 7 balls remaining)","Bangladesh","50/50","288","7","New Zealand","48.5/50","290","7","37th-match","Pool-A","New Zealand ",NA
+"395","Sydney","Afghanistan-v-England","Mar-13-2015","England won by 9 wickets (with 41 balls remaining) (D/L method)","Afghanistan","36.2/36.2","111","7","England","18.1/25,-target:-101","101","1","38th-match","Pool-A","England ","D/L method"
+"396","Auckland","India-v-Zimbabwe","Mar-14-2015","India won by 6 wickets (with 8 balls remaining)","Zimbabwe","48.5/50","287","10","India","48.4/50","288","4","39th-match","Pool-B","India ",NA
+"397","Hobart","Australia-v-Scotland","Mar-14-2015","Australia won by 7 wickets (with 208 balls remaining)","Scotland","25.4/50","130","10","Australia","15.2/50","133","3","40th-match","Pool-A","Australia ",NA
+"398","Napier","United-Arab-Emirates-v-West-Indies","Mar-15-2015","West Indies won by 6 wickets (with 117 balls remaining)","United Arab Emirates","47.4/50","175","10","West Indies","30.3/50","176","4","41st-match","Pool-B","West Indies ",NA
+"399","Adelaide","Ireland-v-Pakistan","Mar-15-2015","Pakistan won by 7 wickets (with 23 balls remaining)","Ireland","50/50","237","10","Pakistan","46.1/50","241","3","42nd-match","Pool-B","Pakistan ",NA
+"400","Sydney","South-Africa-v-Sri-Lanka","Mar-18-2015","South Africa won by 9 wickets (with 192 balls remaining)","Sri Lanka","37.2/50","133","10","South Africa","18/50","134","1","1st-qf",NA,"South Africa ",NA
+"401","Melbourne","Bangladesh-v-India","Mar-19-2015","India won by 109 runs","India","50/50","302","6","Bangladesh","45/50","193","10","2nd-qf",NA,"India ",NA
+"402","Adelaide","Australia-v-Pakistan","Mar-20-2015","Australia won by 6 wickets (with 97 balls remaining)","Pakistan","49.5/50","213","10","Australia","33.5/50","216","4","3rd-qf",NA,"Australia ",NA
+"403","Wellington","New-Zealand-v-West-Indies","Mar-21-2015","New Zealand won by 143 runs","New Zealand","50/50","393","6","West Indies","30.3/50","250","10","4th-qf",NA,"New Zealand ",NA
+"404","Auckland","New-Zealand-v-South-Africa","Mar-24-2015","New Zealand won by 4 wickets (with 1 ball remaining) (D/L method)","South Africa","43/43","281","5","New Zealand","42.5/43,-target:-298","299","6","1st-sf",NA,"New Zealand ","D/L method"
+"405","Sydney","Australia-v-India","Mar-26-2015","Australia won by 95 runs","Australia","50/50","328","7","India","46.5/50","233","10","2nd-sf",NA,"Australia ",NA
+"406","Melbourne","Australia-v-New-Zealand","Mar-29-2015","Australia won by 7 wickets (with 101 balls remaining)","New Zealand","45/50","183","10","Australia","33.1/50","186","3","final",NA,"Australia ",NA
+"407","The-Oval","England-v-South-Africa","May-30-2019","England won by 104 runs","England","50/50","311","8","South Africa","39.5/50","207","10","1st-match",NA,"England ",NA
+"408","Nottingham","Pakistan-v-West-Indies","May-31-2019","West Indies won by 7 wickets (with 218 balls remaining)","Pakistan","21.4/50","105","10","West Indies","13.4/50","108","3","2nd-match",NA,"West Indies ",NA
+"409","Cardiff","New-Zealand-v-Sri-Lanka","Jun-1-2019","New Zealand won by 10 wickets (with 203 balls remaining)","Sri Lanka","29.2/50","136","10","New Zealand","16.1/50","137","0","3rd-match",NA,"New Zealand ",NA
+"410","Bristol","Afghanistan-v-Australia","Jun-1-2019","Australia won by 7 wickets (with 91 balls remaining)","Afghanistan","38.2/50","207","10","Australia","34.5/50","209","3","4th-match",NA,"Australia ",NA
+"411","The-Oval","Bangladesh-v-South-Africa","Jun-2-2019","Bangladesh won by 21 runs","Bangladesh","50/50","330","6","South Africa","50/50","309","8","5th-match",NA,"Bangladesh ",NA
+"412","Nottingham","England-v-Pakistan","Jun-3-2019","Pakistan won by 14 runs","Pakistan","50/50","348","8","England","50/50","334","9","6th-match",NA,"Pakistan ",NA
+"413","Cardiff","Afghanistan-v-Sri-Lanka","Jun-4-2019","Sri Lanka won by 34 runs (D/L method)","Sri Lanka","36.5/41","201","10","Afghanistan","32.4/41,-target:-187","152","10","7th-match",NA,"Sri Lanka ","D/L method"
+"414","Southampton","India-v-South-Africa","Jun-5-2019","India won by 6 wickets (with 15 balls remaining)","South Africa","50/50","227","9","India","47.3/50","230","4","8th-match",NA,"India ",NA
+"415","The-Oval","Bangladesh-v-New-Zealand","Jun-5-2019","New Zealand won by 2 wickets (with 17 balls remaining)","Bangladesh","49.2/50","244","10","New Zealand","47.1/50","248","8","9th-match",NA,"New Zealand ",NA
+"416","Nottingham","Australia-v-West-Indies","Jun-6-2019","Australia won by 15 runs","Australia","49/50","288","10","West Indies","50/50","273","9","10th-match",NA,"Australia ",NA
+"417","Bristol","Pakistan-v-Sri-Lanka","Jun-7-2019","Match abandoned without a ball bowled",NA,NA,NA,NA,NA,NA,NA,NA,"11th-match",NA,"Match abandoned without a ball bowled",NA
+"418","Cardiff","England-v-Bangladesh","Jun-8-2019","England won by 106 runs","England","50/50","386","6","Bangladesh","48.5/50","280","10","12th-match",NA,"England ",NA
+"419","Taunton","Afghanistan-v-New-Zealand","Jun-8-2019","New Zealand won by 7 wickets (with 107 balls remaining)","Afghanistan","41.1/50","172","10","New Zealand","32.1/50","173","3","13th-match",NA,"New Zealand ",NA
+"420","The-Oval","Australia-v-India","Jun-9-2019","India won by 36 runs","India","50/50","352","5","Australia","50/50","316","10","14th-match",NA,"India ",NA
+"421","Southampton","South-Africa-v-West-Indies","Jun-10-2019","No result","South Africa","7.3/50","29","2",NA,NA,NA,NA,"15th-match",NA,"No result",NA
+"422","Bristol","Bangladesh-v-Sri-Lanka","Jun-11-2019","Match abandoned without a ball bowled",NA,NA,NA,NA,NA,NA,NA,NA,"16th-match",NA,"Match abandoned without a ball bowled",NA
+"423","Taunton","Australia-v-Pakistan","Jun-12-2019","Australia won by 41 runs","Australia","49/50","307","10","Pakistan","45.4/50","266","10","17th-match",NA,"Australia ",NA
+"424","Nottingham","India-v-New-Zealand","Jun-13-2019","Match abandoned without a ball bowled",NA,NA,NA,NA,NA,NA,NA,NA,"18th-match",NA,"Match abandoned without a ball bowled",NA
+"425","Southampton","England-v-West-Indies","Jun-14-2019","England won by 8 wickets (with 101 balls remaining)","West Indies","44.4/50","212","10","England","33.1/50","213","2","19th-match",NA,"England ",NA
+"426","The-Oval","Australia-v-Sri-Lanka","Jun-15-2019","Australia won by 87 runs","Australia","50/50","334","7","Sri Lanka","45.5/50","247","10","20th-match",NA,"Australia ",NA
+"427","Cardiff","Afghanistan-v-South-Africa","Jun-15-2019","South Africa won by 9 wickets (with 116 balls remaining) (D/L method)","Afghanistan","34.1/48","125","10","South Africa","28.4/48,-target:-127","131","1","21st-match",NA,"South Africa ","D/L method"
+"428","Manchester","India-v-Pakistan","Jun-16-2019","India won by 89 runs (D/L method)","India","50/50","336","5","Pakistan","40/40,-target:-302","212","6","22nd-match",NA,"India ","D/L method"
+"429","Taunton","Bangladesh-v-West-Indies","Jun-17-2019","Bangladesh won by 7 wickets (with 51 balls remaining)","West Indies","50/50","321","8","Bangladesh","41.3/50","322","3","23rd-match",NA,"Bangladesh ",NA
+"430","Manchester","England-v-Afghanistan","Jun-18-2019","England won by 150 runs","England","50/50","397","6","Afghanistan","50/50","247","8","24th-match",NA,"England ",NA
+"431","Birmingham","New-Zealand-v-South-Africa","Jun-19-2019","New Zealand won by 4 wickets (with 3 balls remaining)","South Africa","49/49","241","6","New Zealand","48.3/49","245","6","25th-match",NA,"New Zealand ",NA
+"432","Nottingham","Australia-v-Bangladesh","Jun-20-2019","Australia won by 48 runs","Australia","50/50","381","5","Bangladesh","50/50","333","8","26th-match",NA,"Australia ",NA
+"433","Leeds","England-v-Sri-Lanka","Jun-21-2019","Sri Lanka won by 20 runs","Sri Lanka","50/50","232","9","England","47/50","212","10","27th-match",NA,"Sri Lanka ",NA
+"434","Southampton","Afghanistan-v-India","Jun-22-2019","India won by 11 runs","India","50/50","224","8","Afghanistan","49.5/50","213","10","28th-match",NA,"India ",NA
+"435","Manchester","New-Zealand-v-West-Indies","Jun-22-2019","New Zealand won by 5 runs","New Zealand","50/50","291","8","West Indies","49/50","286","10","29th-match",NA,"New Zealand ",NA
+"436","Lord's","Pakistan-v-South-Africa","Jun-23-2019","Pakistan won by 49 runs","Pakistan","50/50","308","7","South Africa","50/50","259","9","30th-match",NA,"Pakistan ",NA
+"437","Southampton","Afghanistan-v-Bangladesh","Jun-24-2019","Bangladesh won by 62 runs","Bangladesh","50/50","262","7","Afghanistan","47/50","200","10","31st-match",NA,"Bangladesh ",NA
+"438","Lord's","England-v-Australia","Jun-25-2019","Australia won by 64 runs","Australia","50/50","285","7","England","44.4/50","221","10","32nd-match",NA,"Australia ",NA
+"439","Birmingham","New-Zealand-v-Pakistan","Jun-26-2019","Pakistan won by 6 wickets (with 5 balls remaining)","New Zealand","50/50","237","6","Pakistan","49.1/50","241","4","33rd-match",NA,"Pakistan ",NA
+"440","Manchester","India-v-West-Indies","Jun-27-2019","India won by 125 runs","India","50/50","268","7","West Indies","34.2/50","143","10","34th-match",NA,"India ",NA
+"441","Chester-le-Street","South-Africa-v-Sri-Lanka","Jun-28-2019","South Africa won by 9 wickets (with 76 balls remaining)","Sri Lanka","49.3/50","203","10","South Africa","37.2/50","206","1","35th-match",NA,"South Africa ",NA
+"442","Leeds","Afghanistan-v-Pakistan","Jun-29-2019","Pakistan won by 3 wickets (with 2 balls remaining)","Afghanistan","50/50","227","9","Pakistan","49.4/50","230","7","36th-match",NA,"Pakistan ",NA
+"443","Lord's","Australia-v-New-Zealand","Jun-29-2019","Australia won by 86 runs","Australia","50/50","243","9","New Zealand","43.4/50","157","10","37th-match",NA,"Australia ",NA
+"444","Birmingham","England-v-India","Jun-30-2019","England won by 31 runs","England","50/50","337","7","India","50/50","306","5","38th-match",NA,"England ",NA
+"445","Chester-le-Street","Sri-Lanka-v-West-Indies","Jul-1-2019","Sri Lanka won by 23 runs","Sri Lanka","50/50","338","6","West Indies","50/50","315","9","39th-match",NA,"Sri Lanka ",NA
+"446","Birmingham","Bangladesh-v-India","Jul-2-2019","India won by 28 runs","India","50/50","314","9","Bangladesh","48/50","286","10","40th-match",NA,"India ",NA
+"447","Chester-le-Street","England-v-New-Zealand","Jul-3-2019","England won by 119 runs","England","50/50","305","8","New Zealand","45/50","186","10","41st-match",NA,"England ",NA
+"448","Leeds","Afghanistan-v-West-Indies","Jul-4-2019","West Indies won by 23 runs","West Indies","50/50","311","6","Afghanistan","50/50","288","10","42nd-match",NA,"West Indies ",NA
+"449","Lord's","Bangladesh-v-Pakistan","Jul-5-2019","Pakistan won by 94 runs","Pakistan","50/50","315","9","Bangladesh","44.1/50","221","10","43rd-match",NA,"Pakistan ",NA
+"450","Leeds","India-v-Sri-Lanka","Jul-6-2019","India won by 7 wickets (with 39 balls remaining)","Sri Lanka","50/50","264","7","India","43.3/50","265","3","44th-match",NA,"India ",NA
+"451","Manchester","Australia-v-South-Africa","Jul-6-2019","South Africa won by 10 runs","South Africa","50/50","325","6","Australia","49.5/50","315","10","45th-match",NA,"South Africa ",NA
+"452","Manchester","India-v-New-Zealand","Jul-9-10-2019","New Zealand won by 18 runs","New Zealand","50/50","239","8","India","49.3/50","221","10","1st-sf",NA,"New Zealand ",NA
+"453","Birmingham","England-v-Australia","Jul-11-2019","England won by 8 wickets (with 107 balls remaining)","Australia","49/50","223","10","England","32.1/50","226","2","2nd-sf",NA,"England ",NA
+"454","Lord's","England-v-New-Zealand","Jul-14-2019","Match tied","New Zealand","50/50","241","8","England","50/50","241","10","final",NA,"Match tied",NA
