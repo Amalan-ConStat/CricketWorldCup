@@ -6,6 +6,6 @@ After writing this [post](https://amalan-con-stat.netlify.com/post/webscraping/w
 
 I have also added the R script which includes all the code for the data extraction and large data-frame creation with comments.
 
-Further their is a [csv](/Final/WorldCupData.csv) which could be used for analysis.
+Further their is a [csv](/FinalWorldCupData.csv) which could be used for analysis.
 
 *THANK YOU*
